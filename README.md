@@ -1,4 +1,4 @@
-# WWW2021
+# Multi-Session Diversity to Improve User Satisfaction in Web Applications
 
 Real Data Experiments:
 
