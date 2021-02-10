@@ -1,0 +1,57 @@
+{
+    "worker_id": "A2XVLENAJYX691",
+    "context": "in a theme party",
+    "unique_code": "oTGvmjqs24sQMQB",
+    "playlists": [
+        {
+            "playlist_id": 1,
+            "count_selected": 32,
+            "count_total": 50,
+            "artists": 4,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 5
+        },
+        {
+            "playlist_id": 2,
+            "count_selected": 36,
+            "count_total": 50,
+            "artists": 4,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 5
+        },
+        {
+            "playlist_id": 3,
+            "count_selected": 39,
+            "count_total": 50,
+            "artists": 4,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 5
+        },
+        {
+            "playlist_id": 4,
+            "count_selected": 40,
+            "count_total": 50,
+            "artists": 4,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 5
+        },
+        {
+            "playlist_id": 5,
+            "count_selected": 34,
+            "count_total": 45,
+            "artists": 4,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 4
+        }
+    ]
+}

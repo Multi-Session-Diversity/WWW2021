@@ -1,0 +1,38 @@
+<div class="task">
+  <div class="task-content">
+      <h4> $taskNo) What is the sentiment of the following tweet in relation to self-driving cars? </h4>
+      <div class="tweet"> 
+          $text
+      </div>
+      <div class="choices">
+      <form id='answer_form' method="post">
+        <table style="text-align:center; font-size: small;">
+          <tr> 
+            <td> <input type="radio" name="$task_instance_id-1" value="Highly negative" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="Negative" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="Neutral" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="Positive" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="Highly positive" > </td>
+          </tr>
+          <tr>
+            <td width="20%"> Highly<br>negative </td>
+            <td width="20%"> Negative </td>
+            <td width="20%"> Neutral </td>
+            <td width="20%"> Positive </td>
+            <td width="20%"> Highly<br>positive </td>
+          </tr>
+        </table>
+        <br>
+        <input type="hidden" name="$task_instance_id" value="$reward"/>
+        <input type="submit" class="task_finish" value="Submit"/>
+      </form> 
+      </div>
+  </div>
+  <div class="task-info">
+    <b>Title: </b> $title <br>
+    <b>Description: </b> $description <br>
+    <b>Keywords: </b> $keywords <br>
+    <b>Requester: </b> $requester <br>
+    <b>Reward: </b> $reward USD <br>
+  </div>
+</div>

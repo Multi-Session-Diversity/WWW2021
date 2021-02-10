@@ -1,0 +1,57 @@
+{
+    "worker_id": "A2KRL7VU5BA72",
+    "context": "on a Sunday morning",
+    "unique_code": "e8Hl90AHxeR0BiX",
+    "playlists": [
+        {
+            "playlist_id": 1,
+            "count_selected": 18,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 3,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 2,
+            "count_selected": 24,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 3,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 3,
+            "count_selected": 25,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 3,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 4,
+            "count_selected": 24,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 3,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 5,
+            "count_selected": 21,
+            "count_total": 45,
+            "artists": 3,
+            "diversity": 3,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        }
+    ]
+}

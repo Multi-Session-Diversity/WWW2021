@@ -1,0 +1,1871 @@
+{
+  "worker_id"  : "AHWF0QIK9VTDS",
+  "context" : "on a Sunday morning",
+  "playlists" : [
+    {
+      "playlist_id" : 1,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 349,
+              "song_title" : "I Don't Go for That",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:11"
+            },
+            {
+              "song_id" : 287,
+              "song_title" : "Penny Lover",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 644,
+              "song_title" : "Turning Tables",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 201,
+              "song_title" : "Another Star",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "8:28"
+            },
+            {
+              "song_id" : 200,
+              "song_title" : "As",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:08"
+            },
+            {
+              "song_id" : 202,
+              "song_title" : "Saturn",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:53"
+            },
+            {
+              "song_id" : 205,
+              "song_title" : "Eay Goin' Evening (My Mama's Call)",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 351,
+              "song_title" : "The Verb To Be",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "0:29"
+            },
+            {
+              "song_id" : 718,
+              "song_title" : "Million Years Ago",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:47"
+            },
+            {
+              "song_id" : 414,
+              "song_title" : "Trust in Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:13"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 198,
+              "song_title" : "Ngiculela – Es Una Historia – I Am Singing",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 195,
+              "song_title" : "Isn't She Lovely",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:34"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 191,
+              "song_title" : "Knocks Me Off My Feet",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 193,
+              "song_title" : "Summer Soft",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:14"
+            },
+            {
+              "song_id" : 192,
+              "song_title" : "Pastime Paradise",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 391,
+              "song_title" : "Walkin' Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 278,
+              "song_title" : "The Girl Is Mine",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "3:42"
+            },
+            {
+              "song_id" : 279,
+              "song_title" : "Thriller",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "5:57"
+            },
+            {
+              "song_id" : 399,
+              "song_title" : "Running On Faith",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:31"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 713,
+              "song_title" : "When We Were Young",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 711,
+              "song_title" : "Send My Love (To Your New Lover)",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 647,
+              "song_title" : "He Won't Go",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:38"
+            },
+            {
+              "song_id" : 384,
+              "song_title" : "Before You Accuse Me",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 385,
+              "song_title" : "Hey Hey",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:46"
+            },
+            {
+              "song_id" : 386,
+              "song_title" : "Tears in Heaven",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 280,
+              "song_title" : "Beat It",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:18"
+            },
+            {
+              "song_id" : 483,
+              "song_title" : "Every Ghetto, Every City",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:14"
+            },
+            {
+              "song_id" : 481,
+              "song_title" : "I Used to Love Him (feat. Mary J. Blige)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:39"
+            },
+            {
+              "song_id" : 357,
+              "song_title" : "One Man Woman",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:44"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 519,
+              "song_title" : "I've Got to See You Again",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 524,
+              "song_title" : "The Nearness of You",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:07"
+            },
+            {
+              "song_id" : 347,
+              "song_title" : "Prologue (2Q's Rap)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "1:04"
+            },
+            {
+              "song_id" : 187,
+              "song_title" : "Village Ghetto Land",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 522,
+              "song_title" : "Nightingale",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 407,
+              "song_title" : "Queen of the Night",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 645,
+              "song_title" : "Don't You Remember",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 188,
+              "song_title" : "Contusion",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 189,
+              "song_title" : "Sir Duke",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:52"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 518,
+              "song_title" : "Lonestar",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 724,
+              "song_title" : "That's What I Like",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 725,
+              "song_title" : "Versace on the Floor",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 722,
+              "song_title" : "Chunky",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 720,
+              "song_title" : "Sweetest Devotion",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:11"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 511,
+              "song_title" : "Don't Know Why",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 292,
+              "song_title" : "Hello",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 358,
+              "song_title" : "Tomorrow (A Better You, Better Me)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "4:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 2,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 283,
+              "song_title" : "P.Y.T. (Pretty Young Thing)",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 341,
+              "song_title" : "Nobody's Girl",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:14"
+            },
+            {
+              "song_id" : 203,
+              "song_title" : "Ebony Eyes",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 473,
+              "song_title" : "Intro",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "0:47"
+            },
+            {
+              "song_id" : 205,
+              "song_title" : "Eay Goin' Evening (My Mama's Call)",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 728,
+              "song_title" : "Finesse",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:11"
+            },
+            {
+              "song_id" : 464,
+              "song_title" : "Standing in the Doorway",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "7:42"
+            },
+            {
+              "song_id" : 400,
+              "song_title" : "Walkin' Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 290,
+              "song_title" : "The Only One",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:17"
+            },
+            {
+              "song_id" : 463,
+              "song_title" : "Dirt Road Blues",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "3:34"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 643,
+              "song_title" : "Rumour Has It",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 353,
+              "song_title" : "The Places You Find Love",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:25"
+            },
+            {
+              "song_id" : 477,
+              "song_title" : "Doo Wop (That Thing)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 412,
+              "song_title" : "(What's So Funny 'Bout) Peace, Love, and Understanding",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 649,
+              "song_title" : "I'll Be Waiting",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 343,
+              "song_title" : "Too Soon to Tell",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 648,
+              "song_title" : "Take It All",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 515,
+              "song_title" : "Come Away with Me",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:18"
+            },
+            {
+              "song_id" : 359,
+              "song_title" : "Prelude to the Garden",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "0:54"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 398,
+              "song_title" : "My Father's Eyes",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:22"
+            },
+            {
+              "song_id" : 204,
+              "song_title" : "All Day Sucker",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 727,
+              "song_title" : "Calling All My Lovelies",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 405,
+              "song_title" : "I'm Every Woman",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:45"
+            },
+            {
+              "song_id" : 403,
+              "song_title" : "I Will Always Love You",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:31"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 652,
+              "song_title" : "Someone Like You",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:45"
+            },
+            {
+              "song_id" : 187,
+              "song_title" : "Village Ghetto Land",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 185,
+              "song_title" : "Love's in Need of Love Today",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:05"
+            },
+            {
+              "song_id" : 280,
+              "song_title" : "Beat It",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:18"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 468,
+              "song_title" : "Not Dark Yet",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "6:27"
+            },
+            {
+              "song_id" : 194,
+              "song_title" : "Ordinary Pain",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:23"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 193,
+              "song_title" : "Summer Soft",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:14"
+            },
+            {
+              "song_id" : 192,
+              "song_title" : "Pastime Paradise",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 391,
+              "song_title" : "Walkin' Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 395,
+              "song_title" : "Old Love",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "7:51"
+            },
+            {
+              "song_id" : 279,
+              "song_title" : "Thriller",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "5:57"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 462,
+              "song_title" : "Love Sick",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 383,
+              "song_title" : "Signe",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 384,
+              "song_title" : "Before You Accuse Me",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 720,
+              "song_title" : "Sweetest Devotion",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:11"
+            },
+            {
+              "song_id" : 386,
+              "song_title" : "Tears in Heaven",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 387,
+              "song_title" : "Lonely Stranger",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 487,
+              "song_title" : "Can't Take My Eyes Off You",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:41"
+            },
+            {
+              "song_id" : 480,
+              "song_title" : "When It Hurts so Bad",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:42"
+            },
+            {
+              "song_id" : 414,
+              "song_title" : "Trust in Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 356,
+              "song_title" : "Setembro",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 3,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 338,
+              "song_title" : "Love Letter",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 345,
+              "song_title" : "I Ain't Gonna Let You Break My Heart Again",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 411,
+              "song_title" : "It's Gonna Be a Lovely Day",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 343,
+              "song_title" : "Too Soon to Tell",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 480,
+              "song_title" : "When It Hurts so Bad",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:42"
+            },
+            {
+              "song_id" : 413,
+              "song_title" : "Waiting for You",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "2:43"
+            },
+            {
+              "song_id" : 190,
+              "song_title" : "I Wish",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 349,
+              "song_title" : "I Don't Go for That",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:11"
+            },
+            {
+              "song_id" : 279,
+              "song_title" : "Thriller",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "5:57"
+            },
+            {
+              "song_id" : 523,
+              "song_title" : "The Long Day Is Over",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:44"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 394,
+              "song_title" : "Malted Milk",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:37"
+            },
+            {
+              "song_id" : 476,
+              "song_title" : "To Zion (feat. Carlos Santana)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "6:09"
+            },
+            {
+              "song_id" : 465,
+              "song_title" : "Million Miles",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "5:52"
+            },
+            {
+              "song_id" : 485,
+              "song_title" : "Everything Is Everything",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:53"
+            },
+            {
+              "song_id" : 410,
+              "song_title" : "Someday (I'm Coming Back)",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:57"
+            },
+            {
+              "song_id" : 199,
+              "song_title" : "If It's Magic",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:12"
+            },
+            {
+              "song_id" : 351,
+              "song_title" : "The Verb To Be",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "0:29"
+            },
+            {
+              "song_id" : 710,
+              "song_title" : "Hello",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:55"
+            },
+            {
+              "song_id" : 642,
+              "song_title" : "Rolling in the Deep",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 397,
+              "song_title" : "Circus",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:28"
+            },
+            {
+              "song_id" : 401,
+              "song_title" : "My Father's Eyes",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:42"
+            },
+            {
+              "song_id" : 468,
+              "song_title" : "Not Dark Yet",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "6:27"
+            },
+            {
+              "song_id" : 486,
+              "song_title" : "The Miseducation of Lauryn Hill",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 414,
+              "song_title" : "Trust in Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 292,
+              "song_title" : "Hello",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 652,
+              "song_title" : "Someone Like You",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:45"
+            },
+            {
+              "song_id" : 719,
+              "song_title" : "All I Ask",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:31"
+            },
+            {
+              "song_id" : 356,
+              "song_title" : "Setembro",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 406,
+              "song_title" : "Run to You",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 287,
+              "song_title" : "Penny Lover",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 464,
+              "song_title" : "Standing in the Doorway",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "7:42"
+            },
+            {
+              "song_id" : 484,
+              "song_title" : "Nothing Even Matters (feat. D'Angelo)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 477,
+              "song_title" : "Doo Wop (That Thing)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 194,
+              "song_title" : "Ordinary Pain",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:23"
+            },
+            {
+              "song_id" : 188,
+              "song_title" : "Contusion",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 720,
+              "song_title" : "Sweetest Devotion",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:11"
+            },
+            {
+              "song_id" : 282,
+              "song_title" : "Human Nature",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:06"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 393,
+              "song_title" : "San Francisco Bay Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:28"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 469,
+              "song_title" : "Cold Irons Bound",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "7:14"
+            },
+            {
+              "song_id" : 387,
+              "song_title" : "Lonely Stranger",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 479,
+              "song_title" : "Final Hour",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:16"
+            },
+            {
+              "song_id" : 291,
+              "song_title" : "Running with the Night",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "5:55"
+            },
+            {
+              "song_id" : 357,
+              "song_title" : "One Man Woman",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 201,
+              "song_title" : "Another Star",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "8:28"
+            },
+            {
+              "song_id" : 726,
+              "song_title" : "Straight up & Down",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:18"
+            },
+            {
+              "song_id" : 515,
+              "song_title" : "Come Away with Me",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 4,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 399,
+              "song_title" : "Running On Faith",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:31"
+            },
+            {
+              "song_id" : 471,
+              "song_title" : "Can't Wait",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "5:46"
+            },
+            {
+              "song_id" : 384,
+              "song_title" : "Before You Accuse Me",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 404,
+              "song_title" : "I Have Nothing",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:49"
+            },
+            {
+              "song_id" : 190,
+              "song_title" : "I Wish",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 202,
+              "song_title" : "Saturn",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:53"
+            },
+            {
+              "song_id" : 712,
+              "song_title" : "I Miss You",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "5:48"
+            },
+            {
+              "song_id" : 352,
+              "song_title" : "Wee B. Dooinit",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:34"
+            },
+            {
+              "song_id" : 724,
+              "song_title" : "That's What I Like",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 524,
+              "song_title" : "The Nearness of You",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:07"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 387,
+              "song_title" : "Lonely Stranger",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 344,
+              "song_title" : "I Will Not Be Denied",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:55"
+            },
+            {
+              "song_id" : 469,
+              "song_title" : "Cold Irons Bound",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "7:14"
+            },
+            {
+              "song_id" : 487,
+              "song_title" : "Can't Take My Eyes Off You",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:41"
+            },
+            {
+              "song_id" : 198,
+              "song_title" : "Ngiculela – Es Una Historia – I Am Singing",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 200,
+              "song_title" : "As",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:08"
+            },
+            {
+              "song_id" : 715,
+              "song_title" : "Water Under the Bridge",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 726,
+              "song_title" : "Straight up & Down",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:18"
+            },
+            {
+              "song_id" : 523,
+              "song_title" : "The Long Day Is Over",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:44"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 392,
+              "song_title" : "Alberta",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 405,
+              "song_title" : "I'm Every Woman",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:45"
+            },
+            {
+              "song_id" : 383,
+              "song_title" : "Signe",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 483,
+              "song_title" : "Every Ghetto, Every City",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:14"
+            },
+            {
+              "song_id" : 191,
+              "song_title" : "Knocks Me Off My Feet",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 203,
+              "song_title" : "Ebony Eyes",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 651,
+              "song_title" : "Lovesong",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "5:16"
+            },
+            {
+              "song_id" : 282,
+              "song_title" : "Human Nature",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 727,
+              "song_title" : "Calling All My Lovelies",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 515,
+              "song_title" : "Come Away with Me",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:18"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 477,
+              "song_title" : "Doo Wop (That Thing)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 488,
+              "song_title" : "Tell Him",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 292,
+              "song_title" : "Hello",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 360,
+              "song_title" : "The Secret Garden (Sweet Seduction Suite)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:41"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 277,
+              "song_title" : "Baby Be Mine",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:20"
+            },
+            {
+              "song_id" : 519,
+              "song_title" : "I've Got to See You Again",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 521,
+              "song_title" : "One Flight Down",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:05"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 398,
+              "song_title" : "My Father's Eyes",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:22"
+            },
+            {
+              "song_id" : 466,
+              "song_title" : "Tryin' to Get to Heaven",
+              "artist" : "Bob Dylan",
+              "album" : "Time Out of Mind",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 385,
+              "song_title" : "Hey Hey",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:46"
+            },
+            {
+              "song_id" : 479,
+              "song_title" : "Final Hour",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:16"
+            },
+            {
+              "song_id" : 357,
+              "song_title" : "One Man Woman",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 647,
+              "song_title" : "He Won't Go",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:38"
+            },
+            {
+              "song_id" : 354,
+              "song_title" : "Jazz Corner of the World",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "2:54"
+            },
+            {
+              "song_id" : 351,
+              "song_title" : "The Verb To Be",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "0:29"
+            },
+            {
+              "song_id" : 725,
+              "song_title" : "Versace on the Floor",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 511,
+              "song_title" : "Don't Know Why",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 5,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 607,
+              "song_title" : "Trampled Rose",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 530,
+              "song_title" : "The Rooster",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 550,
+              "song_title" : "Hey Ya!",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 558,
+              "song_title" : "My Favorite Things",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 554,
+              "song_title" : "Pink & Blue",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:04"
+            },
+            {
+              "song_id" : 568,
+              "song_title" : "A Man and a Woman",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 536,
+              "song_title" : "E-Mac (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:24"
+            },
+            {
+              "song_id" : 508,
+              "song_title" : "Cousin Dupree",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:28"
+            },
+            {
+              "song_id" : 625,
+              "song_title" : "Change",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:38"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 614,
+              "song_title" : "Fifteen",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 605,
+              "song_title" : "Through the Morning, Through the Night",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 522,
+              "song_title" : "Nightingale",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 553,
+              "song_title" : "Behold a Lady",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 543,
+              "song_title" : "The Love Below (Intro)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:27"
+            },
+            {
+              "song_id" : 564,
+              "song_title" : "Sometimes You Can't Make It On Your Own",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 592,
+              "song_title" : "Sweet Bird",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "8:15"
+            },
+            {
+              "song_id" : 619,
+              "song_title" : "Breathe (feat. Colbie Caillat)",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:23"
+            },
+            {
+              "song_id" : 556,
+              "song_title" : "She's Alive",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:06"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 624,
+              "song_title" : "The Best Day",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 502,
+              "song_title" : "Gaslighting Abbie",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 599,
+              "song_title" : "All I Want (feat. Sonya Kitchell)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 621,
+              "song_title" : "You're Not Sorry",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 520,
+              "song_title" : "Painter Song",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 547,
+              "song_title" : "Spread",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:51"
+            },
+            {
+              "song_id" : 575,
+              "song_title" : "Easy Silence",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 600,
+              "song_title" : "Rich Woman",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 580,
+              "song_title" : "Lubbock or Leave It",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 510,
+              "song_title" : "West of Hollywood",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "8:21"
+            },
+            {
+              "song_id" : 542,
+              "song_title" : "Bowtie (Postlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:35"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 581,
+              "song_title" : "Silent House",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 584,
+              "song_title" : "I Like It",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:33"
+            },
+            {
+              "song_id" : 518,
+              "song_title" : "Lonestar",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 604,
+              "song_title" : "Gone Gone Gone (Done Moved On)",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:32"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 574,
+              "song_title" : "The Long Way Around",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:32"
+            },
+            {
+              "song_id" : 535,
+              "song_title" : "Tomb of the Boom (feat. Konkrete, Big Gipp and Ludacris)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:46"
+            },
+            {
+              "song_id" : 526,
+              "song_title" : "Ghetto Musick",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 602,
+              "song_title" : "Sister Rosetta Goes Before Us",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 527,
+              "song_title" : "Unhappy",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 532,
+              "song_title" : "War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:43"
+            },
+            {
+              "song_id" : 585,
+              "song_title" : "Baby Hold On",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:02"
+            },
+            {
+              "song_id" : 601,
+              "song_title" : "Killing the Blues",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

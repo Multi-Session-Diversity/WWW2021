@@ -1,0 +1,11 @@
+task_type_id,title,template,description,reward,requester,keywords
+1,"Sentiment Analysis - Global warming / climate change",templates/template1.html,"Select the sentiment conveyed by a given tweet.",0.02,Sakiko,"image categorization, pattern recognition, image annotation"
+2,"Similarity judgment of word combinations",templates/template2.html,"Evaluate the similarity of two sets of wrods.",0.03,Makoto,"word comparison, semantic similarity"
+3,"Agreement between short and long sentences",templates/template3.html,"Evaluate if two sentences adequately describe an event.",0.03,Sayo,"sentence agreement, sentence comparison"
+4,"How beautiful is this image (animals)",templates/template4.html,"Rate animals' pictures quality.",0.04,Moe,"image annotation, image rating"
+5,"Objective truths of sentences/concept pairs",templates/template5.html,"Determine whether sentences/concept pairs could be true.",0.02,Moe,"sentence agreement, sentence comparison"
+6,"Gender categorization of images",templates/template6.html,"Determine the gender of the person in an image.",0.01,Aiko,"image categorization, pattern recognition, image annotation"
+7,"Transcriptions of names from handwriting",templates/template7.html,"Transcribe handwritten names from images.",0.03,Makoto,"handwriting transcription, handwriting recognition"
+8,"\""All oranges are lemons,\"" a.k.a. Semantic relationships between two concepts",templates/template8.html,"Identify semantic relationships between two concepts.",0.03,Sayo,"semantic analysis, semantic similarity, concepts comparison"
+9,"Corporate Messaging",templates/template9.html,"Classify statements as information, dialog or action.",0.04,Moe,"data categorization, text classification, tweet categorization"
+10,"""Twitter sentiment analysis: Self-driving cars""",templates/template10.html,"Select the sentiment conveyed by a given tweet.",0.02,Makoto,"sentiment analysis, emotion detection"

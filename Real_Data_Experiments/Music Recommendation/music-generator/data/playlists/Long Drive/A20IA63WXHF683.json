@@ -1,0 +1,1871 @@
+{
+  "worker_id"  : "A20IA63WXHF683",
+  "context" : "during a long drive",
+  "playlists" : [
+    {
+      "playlist_id" : 1,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 235,
+              "song_title" : "Honesty",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 236,
+              "song_title" : "My Life",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:44"
+            },
+            {
+              "song_id" : 600,
+              "song_title" : "Rich Woman",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 24,
+              "song_title" : "If Love Were All",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "2:18"
+            },
+            {
+              "song_id" : 691,
+              "song_title" : "Turn Away",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:05"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 657,
+              "song_title" : "Ghosts That We Knew",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "5:39"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 354,
+              "song_title" : "Jazz Corner of the World",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "2:54"
+            },
+            {
+              "song_id" : 368,
+              "song_title" : "Lush Life",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "4:20"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 53,
+              "song_title" : "Vivo Sonhando",
+              "artist" : "Stan Getz & João Gilberto",
+              "album" : "Getz/Gilberto",
+              "duration" : "3:04"
+            },
+            {
+              "song_id" : 357,
+              "song_title" : "One Man Woman",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 724,
+              "song_title" : "That's What I Like",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 725,
+              "song_title" : "Versace on the Floor",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 689,
+              "song_title" : "Blackbird Chain",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "4:26"
+            },
+            {
+              "song_id" : 438,
+              "song_title" : "Hand in My Pocket",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "3:42"
+            },
+            {
+              "song_id" : 350,
+              "song_title" : "I'll Be Good to You",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 436,
+              "song_title" : "You Oughta Know",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "4:09"
+            },
+            {
+              "song_id" : 684,
+              "song_title" : "Say Goodbye",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 372,
+              "song_title" : "Straighten Up and Fly Right",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:40"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 493,
+              "song_title" : "Smooth",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 504,
+              "song_title" : "Two Against Nature",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "6:17"
+            },
+            {
+              "song_id" : 365,
+              "song_title" : "L-O-V-E",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:31"
+            },
+            {
+              "song_id" : 348,
+              "song_title" : "Back on the Block",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:34"
+            },
+            {
+              "song_id" : 360,
+              "song_title" : "The Secret Garden (Sweet Seduction Suite)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:41"
+            },
+            {
+              "song_id" : 286,
+              "song_title" : "All Night Long (All Night)",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "6:22"
+            },
+            {
+              "song_id" : 611,
+              "song_title" : "Let Your Loss Be Your Lesson",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 508,
+              "song_title" : "Cousin Dupree",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:28"
+            },
+            {
+              "song_id" : 612,
+              "song_title" : "Your Long Journey",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:54"
+            },
+            {
+              "song_id" : 440,
+              "song_title" : "Forgiven",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "5:00"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 347,
+              "song_title" : "Prologue (2Q's Rap)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "1:04"
+            },
+            {
+              "song_id" : 132,
+              "song_title" : "Variations on a Theme By Erik Satie",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "1:39"
+            },
+            {
+              "song_id" : 489,
+              "song_title" : "(Da Le) Yaleo",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:52"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 331,
+              "song_title" : "Hand to Mouth",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 252,
+              "song_title" : "(Just Like) Starting Over",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 498,
+              "song_title" : "Wishing It Was",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:51"
+            },
+            {
+              "song_id" : 239,
+              "song_title" : "Rosalinda's Eyes",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 495,
+              "song_title" : "Maria Maria",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 494,
+              "song_title" : "Do You Like the Way",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:53"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 588,
+              "song_title" : "Court and Spark (feat. Norah Jones)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:34"
+            },
+            {
+              "song_id" : 501,
+              "song_title" : "The Calling",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "7:49"
+            },
+            {
+              "song_id" : 241,
+              "song_title" : "Until the Night",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "6:36"
+            },
+            {
+              "song_id" : 124,
+              "song_title" : "Smiling Phases",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:09"
+            },
+            {
+              "song_id" : 265,
+              "song_title" : "Hard Times Are Over",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 249,
+              "song_title" : "The Light Is On",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:11"
+            },
+            {
+              "song_id" : 328,
+              "song_title" : "I Want Your Sex",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "9:17"
+            },
+            {
+              "song_id" : 329,
+              "song_title" : "One More Try",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 381,
+              "song_title" : "Our Love is Here to Stay",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 18,
+              "song_title" : "San Francisco",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "4:43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 2,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 20,
+              "song_title" : "I Can't Give You Anything But Love",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "6:43"
+            },
+            {
+              "song_id" : 48,
+              "song_title" : "Para Machucar Meu Coração",
+              "artist" : "Stan Getz & João Gilberto",
+              "album" : "Getz/Gilberto",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 23,
+              "song_title" : "A Foggy Day",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 657,
+              "song_title" : "Ghosts That We Knew",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "5:39"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 340,
+              "song_title" : "Real Man",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 508,
+              "song_title" : "Cousin Dupree",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:28"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 9,
+              "song_title" : "Medley: Almost Like Being In Love / This Can't Be Love",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "6:28"
+            },
+            {
+              "song_id" : 8,
+              "song_title" : "When You're Smiling (The Whole World Smiles With You)",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "3:24"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 380,
+              "song_title" : "Non Dimenticar",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 382,
+              "song_title" : "Unforgettable",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 260,
+              "song_title" : "Yes, I'm Your Angel",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:09"
+            },
+            {
+              "song_id" : 125,
+              "song_title" : "Sometimes in Winter",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 242,
+              "song_title" : "52nd Street",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "2:26"
+            },
+            {
+              "song_id" : 11,
+              "song_title" : "You Go to My Head",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "2:36"
+            },
+            {
+              "song_id" : 245,
+              "song_title" : "Spinning",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 14,
+              "song_title" : "Puttin' On the Ritz",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "2:17"
+            },
+            {
+              "song_id" : 19,
+              "song_title" : "That's Entertainment",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "6:49"
+            },
+            {
+              "song_id" : 32,
+              "song_title" : "Chicago",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "4:51"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 365,
+              "song_title" : "L-O-V-E",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:31"
+            },
+            {
+              "song_id" : 363,
+              "song_title" : "Route 66",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:01"
+            },
+            {
+              "song_id" : 287,
+              "song_title" : "Penny Lover",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 352,
+              "song_title" : "Wee B. Dooinit",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:34"
+            },
+            {
+              "song_id" : 370,
+              "song_title" : "Orange Colored Sky",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:27"
+            },
+            {
+              "song_id" : 612,
+              "song_title" : "Your Long Journey",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:54"
+            },
+            {
+              "song_id" : 663,
+              "song_title" : "Below My Feet",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "4:52"
+            },
+            {
+              "song_id" : 610,
+              "song_title" : "Nothin'",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 588,
+              "song_title" : "Court and Spark (feat. Norah Jones)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:34"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 592,
+              "song_title" : "Sweet Bird",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "8:15"
+            },
+            {
+              "song_id" : 596,
+              "song_title" : "Nefertiti (feat. Wayne Shorter)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:29"
+            },
+            {
+              "song_id" : 665,
+              "song_title" : "For Those Below",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "3:35"
+            },
+            {
+              "song_id" : 127,
+              "song_title" : "And When I Die",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 331,
+              "song_title" : "Hand to Mouth",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 660,
+              "song_title" : "Reminder",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "2:04"
+            },
+            {
+              "song_id" : 258,
+              "song_title" : "Beautiful Boy (Darling Boy)",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 490,
+              "song_title" : "Love of My Life",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:47"
+            },
+            {
+              "song_id" : 491,
+              "song_title" : "Put Your Lights On",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:47"
+            },
+            {
+              "song_id" : 691,
+              "song_title" : "Turn Away",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:05"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 247,
+              "song_title" : "Poor Shirley",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 727,
+              "song_title" : "Calling All My Lovelies",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 355,
+              "song_title" : "Birdland",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 500,
+              "song_title" : "Primavera",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "6:16"
+            },
+            {
+              "song_id" : 438,
+              "song_title" : "Hand in My Pocket",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "3:42"
+            },
+            {
+              "song_id" : 350,
+              "song_title" : "I'll Be Good to You",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 510,
+              "song_title" : "West of Hollywood",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "8:21"
+            },
+            {
+              "song_id" : 686,
+              "song_title" : "Unforgiven",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "4:34"
+            },
+            {
+              "song_id" : 683,
+              "song_title" : "Heart is a Drum",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "4:31"
+            },
+            {
+              "song_id" : 376,
+              "song_title" : "Nature Boy",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 3,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 28,
+              "song_title" : "Rock-A-Bye Your Baby With A Dixie Melody",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 605,
+              "song_title" : "Through the Morning, Through the Night",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 330,
+              "song_title" : "Hard Day",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:48"
+            },
+            {
+              "song_id" : 495,
+              "song_title" : "Maria Maria",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 688,
+              "song_title" : "Don't Let it Go",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:09"
+            },
+            {
+              "song_id" : 503,
+              "song_title" : "What a Shame About Me",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:17"
+            },
+            {
+              "song_id" : 607,
+              "song_title" : "Trampled Rose",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 240,
+              "song_title" : "Half a Mile Away",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 234,
+              "song_title" : "Big Shot",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 349,
+              "song_title" : "I Don't Go for That",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:11"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 687,
+              "song_title" : "Wave",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:40"
+            },
+            {
+              "song_id" : 8,
+              "song_title" : "When You're Smiling (The Whole World Smiles With You)",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "3:24"
+            },
+            {
+              "song_id" : 338,
+              "song_title" : "Love Letter",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 492,
+              "song_title" : "Africa Bamba",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:41"
+            },
+            {
+              "song_id" : 506,
+              "song_title" : "Almost Gothic",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "4:09"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 489,
+              "song_title" : "(Da Le) Yaleo",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:52"
+            },
+            {
+              "song_id" : 355,
+              "song_title" : "Birdland",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 606,
+              "song_title" : "Please Read the Letter",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 378,
+              "song_title" : "Almost Like Being in Love",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:11"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 361,
+              "song_title" : "The Very Thought of You",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "4:16"
+            },
+            {
+              "song_id" : 358,
+              "song_title" : "Tomorrow (A Better You, Better Me)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "4:46"
+            },
+            {
+              "song_id" : 238,
+              "song_title" : "Stiletto",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:41"
+            },
+            {
+              "song_id" : 347,
+              "song_title" : "Prologue (2Q's Rap)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "1:04"
+            },
+            {
+              "song_id" : 609,
+              "song_title" : "Stick With Me Baby",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "2:49"
+            },
+            {
+              "song_id" : 367,
+              "song_title" : "Smile",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 124,
+              "song_title" : "Smiling Phases",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:09"
+            },
+            {
+              "song_id" : 602,
+              "song_title" : "Sister Rosetta Goes Before Us",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 237,
+              "song_title" : "Zanzibar",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "5:10"
+            },
+            {
+              "song_id" : 611,
+              "song_title" : "Let Your Loss Be Your Lesson",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:01"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 29,
+              "song_title" : "Over The Rainbow",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "5:41"
+            },
+            {
+              "song_id" : 653,
+              "song_title" : "Babel",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 591,
+              "song_title" : "River (feat. Corinne Bailey Rae)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "5:24"
+            },
+            {
+              "song_id" : 666,
+              "song_title" : "The Boxer (feat. Jerry Douglas and Paul Simon)",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 348,
+              "song_title" : "Back on the Block",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:34"
+            },
+            {
+              "song_id" : 594,
+              "song_title" : "Solitude",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "5:42"
+            },
+            {
+              "song_id" : 655,
+              "song_title" : "I Will Wait",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 366,
+              "song_title" : "This Can't Be Love",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:14"
+            },
+            {
+              "song_id" : 25,
+              "song_title" : "Zing! Went The Strings Of My Heart",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 722,
+              "song_title" : "Chunky",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:06"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 9,
+              "song_title" : "Medley: Almost Like Being In Love / This Can't Be Love",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "6:28"
+            },
+            {
+              "song_id" : 382,
+              "song_title" : "Unforgettable",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 16,
+              "song_title" : "Just You, Just Me",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "1:59"
+            },
+            {
+              "song_id" : 502,
+              "song_title" : "Gaslighting Abbie",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 128,
+              "song_title" : "God Bless the Child",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 285,
+              "song_title" : "Can't Slow Down",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:42"
+            },
+            {
+              "song_id" : 693,
+              "song_title" : "Waking Light",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "5:00"
+            },
+            {
+              "song_id" : 11,
+              "song_title" : "You Go to My Head",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "2:36"
+            },
+            {
+              "song_id" : 30,
+              "song_title" : "Swanee",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "7:36"
+            },
+            {
+              "song_id" : 657,
+              "song_title" : "Ghosts That We Knew",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "5:39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 4,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 687,
+              "song_title" : "Wave",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:40"
+            },
+            {
+              "song_id" : 439,
+              "song_title" : "Right Through You",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "2:56"
+            },
+            {
+              "song_id" : 326,
+              "song_title" : "Faith",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 328,
+              "song_title" : "I Want Your Sex",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "9:17"
+            },
+            {
+              "song_id" : 686,
+              "song_title" : "Unforgiven",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "4:34"
+            },
+            {
+              "song_id" : 374,
+              "song_title" : "Don't Get Around Much Anymore",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:34"
+            },
+            {
+              "song_id" : 124,
+              "song_title" : "Smiling Phases",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:09"
+            },
+            {
+              "song_id" : 684,
+              "song_title" : "Say Goodbye",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 30,
+              "song_title" : "Swanee",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "7:36"
+            },
+            {
+              "song_id" : 17,
+              "song_title" : "The Man That Got Away",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "5:03"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 442,
+              "song_title" : "Head over Feet",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 259,
+              "song_title" : "Watching the Wheels",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 364,
+              "song_title" : "Mona Lisa",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 502,
+              "song_title" : "Gaslighting Abbie",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 659,
+              "song_title" : "Loveer's Eyes",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "5:21"
+            },
+            {
+              "song_id" : 493,
+              "song_title" : "Smooth",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 663,
+              "song_title" : "Below My Feet",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "4:52"
+            },
+            {
+              "song_id" : 355,
+              "song_title" : "Birdland",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 49,
+              "song_title" : "Desafinado",
+              "artist" : "Stan Getz & João Gilberto",
+              "album" : "Getz/Gilberto",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 437,
+              "song_title" : "Perfect",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "3:07"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 365,
+              "song_title" : "L-O-V-E",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:31"
+            },
+            {
+              "song_id" : 596,
+              "song_title" : "Nefertiti (feat. Wayne Shorter)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:29"
+            },
+            {
+              "song_id" : 241,
+              "song_title" : "Until the Night",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "6:36"
+            },
+            {
+              "song_id" : 23,
+              "song_title" : "A Foggy Day",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 609,
+              "song_title" : "Stick With Me Baby",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "2:49"
+            },
+            {
+              "song_id" : 244,
+              "song_title" : "I Really Don't Know Anymore",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 52,
+              "song_title" : "O Grande Amor",
+              "artist" : "Stan Getz & João Gilberto",
+              "album" : "Getz/Gilberto",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 602,
+              "song_title" : "Sister Rosetta Goes Before Us",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 25,
+              "song_title" : "Zing! Went The Strings Of My Heart",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 604,
+              "song_title" : "Gone Gone Gone (Done Moved On)",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:32"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 601,
+              "song_title" : "Killing the Blues",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 380,
+              "song_title" : "Non Dimenticar",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 376,
+              "song_title" : "Nature Boy",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:24"
+            },
+            {
+              "song_id" : 287,
+              "song_title" : "Penny Lover",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 247,
+              "song_title" : "Poor Shirley",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 236,
+              "song_title" : "My Life",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:44"
+            },
+            {
+              "song_id" : 508,
+              "song_title" : "Cousin Dupree",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:28"
+            },
+            {
+              "song_id" : 47,
+              "song_title" : "Doralice",
+              "artist" : "Stan Getz & João Gilberto",
+              "album" : "Getz/Gilberto",
+              "duration" : "2:46"
+            },
+            {
+              "song_id" : 362,
+              "song_title" : "Paper Moon",
+              "artist" : "Natalie Cole",
+              "album" : "Unforgettable... with Love",
+              "duration" : "3:25"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 261,
+              "song_title" : "Woman",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:32"
+            },
+            {
+              "song_id" : 598,
+              "song_title" : "A Case of You",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:36"
+            },
+            {
+              "song_id" : 16,
+              "song_title" : "Just You, Just Me",
+              "artist" : "Judy Garland",
+              "album" : "Judy at Carnegie Hall",
+              "duration" : "1:59"
+            },
+            {
+              "song_id" : 728,
+              "song_title" : "Finesse",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:11"
+            },
+            {
+              "song_id" : 682,
+              "song_title" : "Morning",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "5:19"
+            },
+            {
+              "song_id" : 691,
+              "song_title" : "Turn Away",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:05"
+            },
+            {
+              "song_id" : 693,
+              "song_title" : "Waking Light",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "5:00"
+            },
+            {
+              "song_id" : 654,
+              "song_title" : "Whispers in the Dark",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "3:15"
+            },
+            {
+              "song_id" : 262,
+              "song_title" : "Beautiful Boys",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:55"
+            },
+            {
+              "song_id" : 611,
+              "song_title" : "Let Your Loss Be Your Lesson",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 5,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 557,
+              "song_title" : "Dracula's Wedding (feat. Kelis)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:32"
+            },
+            {
+              "song_id" : 597,
+              "song_title" : "The Jungle Line (feat. Leonard Cohen)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "5:00"
+            },
+            {
+              "song_id" : 621,
+              "song_title" : "You're Not Sorry",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 520,
+              "song_title" : "Painter Song",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 610,
+              "song_title" : "Nothin'",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 593,
+              "song_title" : "The Tea Leaf Prophecy (feat. Joni Mitchell)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "6:33"
+            },
+            {
+              "song_id" : 564,
+              "song_title" : "Sometimes You Can't Make It On Your Own",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 546,
+              "song_title" : "Happy Valentine's Day",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 531,
+              "song_title" : "Bust (feat. Killer Mike)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:08"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 504,
+              "song_title" : "Two Against Nature",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "6:17"
+            },
+            {
+              "song_id" : 586,
+              "song_title" : "So Hard",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 551,
+              "song_title" : "Roses",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "6:09"
+            },
+            {
+              "song_id" : 617,
+              "song_title" : "White Horse",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 571,
+              "song_title" : "Original of the Species",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "4:34"
+            },
+            {
+              "song_id" : 605,
+              "song_title" : "Through the Morning, Through the Night",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 589,
+              "song_title" : "Edith and the Kingpin (feat. Tina Turner)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "6:32"
+            },
+            {
+              "song_id" : 522,
+              "song_title" : "Nightingale",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 615,
+              "song_title" : "Love Story",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "3:53"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 601,
+              "song_title" : "Killing the Blues",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 587,
+              "song_title" : "I Hope",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:24"
+            },
+            {
+              "song_id" : 555,
+              "song_title" : "Love in War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 573,
+              "song_title" : "Fast Cars",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 550,
+              "song_title" : "Hey Ya!",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 505,
+              "song_title" : "Janie Runaway",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "4:09"
+            },
+            {
+              "song_id" : 548,
+              "song_title" : "Where Are My Panties? (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:54"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            },
+            {
+              "song_id" : 585,
+              "song_title" : "Baby Hold On",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:02"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 596,
+              "song_title" : "Nefertiti (feat. Wayne Shorter)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:29"
+            },
+            {
+              "song_id" : 604,
+              "song_title" : "Gone Gone Gone (Done Moved On)",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:32"
+            },
+            {
+              "song_id" : 517,
+              "song_title" : "Turn Me On",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:34"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 599,
+              "song_title" : "All I Want (feat. Sonya Kitchell)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 515,
+              "song_title" : "Come Away with Me",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:18"
+            },
+            {
+              "song_id" : 569,
+              "song_title" : "Crumbs from Your Table",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "4:59"
+            },
+            {
+              "song_id" : 616,
+              "song_title" : "Hey Stephen",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:14"
+            },
+            {
+              "song_id" : 619,
+              "song_title" : "Breathe (feat. Colbie Caillat)",
+              "artist" : "Taylor Swift",
+              "album" : "Fearless",
+              "duration" : "4:23"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 519,
+              "song_title" : "I've Got to See You Again",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 558,
+              "song_title" : "My Favorite Things",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 535,
+              "song_title" : "Tomb of the Boom (feat. Konkrete, Big Gipp and Ludacris)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:46"
+            },
+            {
+              "song_id" : 581,
+              "song_title" : "Silent House",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 600,
+              "song_title" : "Rich Woman",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 595,
+              "song_title" : "Amelia (feat. Luciana Souza)",
+              "artist" : "Herbie Hancock",
+              "album" : "River: The Joni Letters",
+              "duration" : "7:26"
+            },
+            {
+              "song_id" : 572,
+              "song_title" : "Yahweh",
+              "artist" : "U2",
+              "album" : "How to Dismantle an Atomic Bomb",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 603,
+              "song_title" : "Polly Come Home",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:36"
+            },
+            {
+              "song_id" : 552,
+              "song_title" : "Good Day, Good Sir (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

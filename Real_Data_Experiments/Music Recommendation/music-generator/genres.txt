@@ -1,0 +1,20 @@
+blues
+country
+folk
+funk
+hip hop
+jazz
+pop
+R&B
+rock
+soul
+comedy
+bossa nova
+americana
+alternative
+dance
+acoustic
+electronic
+disco
+indie
+gospel

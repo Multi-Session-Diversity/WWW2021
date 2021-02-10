@@ -1,0 +1,12 @@
+Index
+-Music Recomendation
+ +--music-exps-survey: web app where users evaluated playlists recommendations
+ +--music-generator: source code for generating playlist recommendations
+ +--results: results of the evaluations
+-Task Recomendation
+ +--results
+    +--Long-Sessions: raw data in .db of the long sessions. Analysis is in long-sessions-summary.
+    +--Short-Sessions: raw data in .db of the short sessions. Analysis is in short-sessions-summary.
+ +--music-generator: source code for generating task recommendations
+ +--task-generator: web app for workers to complete generated tasks
+

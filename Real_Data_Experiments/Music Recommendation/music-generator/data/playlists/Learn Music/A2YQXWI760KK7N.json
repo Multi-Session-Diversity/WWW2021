@@ -1,0 +1,1871 @@
+{
+  "worker_id"  : "A2YQXWI760KK7N",
+  "context" : "when learning about a music style",
+  "playlists" : [
+    {
+      "playlist_id" : 1,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 711,
+              "song_title" : "Send My Love (To Your New Lover)",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 383,
+              "song_title" : "Signe",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 169,
+              "song_title" : "Creepin'",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:22"
+            },
+            {
+              "song_id" : 386,
+              "song_title" : "Tears in Heaven",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 388,
+              "song_title" : "Nobody Knows You When You're Down and Out",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 486,
+              "song_title" : "The Miseducation of Lauryn Hill",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 484,
+              "song_title" : "Nothing Even Matters (feat. D'Angelo)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 160,
+              "song_title" : "Higher Ground",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "3:42"
+            },
+            {
+              "song_id" : 328,
+              "song_title" : "I Want Your Sex",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "9:17"
+            },
+            {
+              "song_id" : 481,
+              "song_title" : "I Used to Love Him (feat. Mary J. Blige)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:39"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 172,
+              "song_title" : "They Won't Go When I Go",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "5:58"
+            },
+            {
+              "song_id" : 171,
+              "song_title" : "It Ain't No Use",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 170,
+              "song_title" : "You Haven't Done Nothin'",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "3:22"
+            },
+            {
+              "song_id" : 161,
+              "song_title" : "Jesus Children Of America",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 526,
+              "song_title" : "Ghetto Musick",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 527,
+              "song_title" : "Unhappy",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 520,
+              "song_title" : "Painter Song",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 341,
+              "song_title" : "Nobody's Girl",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:14"
+            },
+            {
+              "song_id" : 342,
+              "song_title" : "Have a Heart",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:49"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 334,
+              "song_title" : "Kissing a Fool",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 557,
+              "song_title" : "Dracula's Wedding (feat. Kelis)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:32"
+            },
+            {
+              "song_id" : 196,
+              "song_title" : "Joy Inside My Tears",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:29"
+            },
+            {
+              "song_id" : 191,
+              "song_title" : "Knocks Me Off My Feet",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 190,
+              "song_title" : "I Wish",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 393,
+              "song_title" : "San Francisco Bay Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:28"
+            },
+            {
+              "song_id" : 179,
+              "song_title" : "Night Game",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 389,
+              "song_title" : "Layla",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:49"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 400,
+              "song_title" : "Walkin' Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 186,
+              "song_title" : "Have a Talk With God",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 548,
+              "song_title" : "Where Are My Panties? (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:54"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 187,
+              "song_title" : "Village Ghetto Land",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 203,
+              "song_title" : "Ebony Eyes",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 556,
+              "song_title" : "She's Alive",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 204,
+              "song_title" : "All Day Sucker",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 642,
+              "song_title" : "Rolling in the Deep",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 561,
+              "song_title" : "A Life in the Day of Benjamin André (Incomplete)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:50"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 401,
+              "song_title" : "My Father's Eyes",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:42"
+            },
+            {
+              "song_id" : 529,
+              "song_title" : "The Way You Move (feat. Sleepy Brown)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:54"
+            },
+            {
+              "song_id" : 535,
+              "song_title" : "Tomb of the Boom (feat. Konkrete, Big Gipp and Ludacris)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:46"
+            },
+            {
+              "song_id" : 725,
+              "song_title" : "Versace on the Floor",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 476,
+              "song_title" : "To Zion (feat. Carlos Santana)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "6:09"
+            },
+            {
+              "song_id" : 352,
+              "song_title" : "Wee B. Dooinit",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "3:34"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 478,
+              "song_title" : "Superstar",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:57"
+            },
+            {
+              "song_id" : 326,
+              "song_title" : "Faith",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 2,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 339,
+              "song_title" : "Cry on My Shoulder",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 338,
+              "song_title" : "Love Letter",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:04"
+            },
+            {
+              "song_id" : 335,
+              "song_title" : "A Last Request",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "3:47"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 331,
+              "song_title" : "Hand to Mouth",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 392,
+              "song_title" : "Alberta",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 397,
+              "song_title" : "Circus",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:28"
+            },
+            {
+              "song_id" : 394,
+              "song_title" : "Malted Milk",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:37"
+            },
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 399,
+              "song_title" : "Running On Faith",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:31"
+            },
+            {
+              "song_id" : 172,
+              "song_title" : "They Won't Go When I Go",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "5:58"
+            },
+            {
+              "song_id" : 165,
+              "song_title" : "Smile Please",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "3:28"
+            },
+            {
+              "song_id" : 385,
+              "song_title" : "Hey Hey",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:46"
+            },
+            {
+              "song_id" : 542,
+              "song_title" : "Bowtie (Postlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:35"
+            },
+            {
+              "song_id" : 555,
+              "song_title" : "Love in War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 180,
+              "song_title" : "Gone at Last",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:40"
+            },
+            {
+              "song_id" : 186,
+              "song_title" : "Have a Talk With God",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 481,
+              "song_title" : "I Used to Love Him (feat. Mary J. Blige)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:39"
+            },
+            {
+              "song_id" : 523,
+              "song_title" : "The Long Day Is Over",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:44"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 713,
+              "song_title" : "When We Were Young",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 712,
+              "song_title" : "I Miss You",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "5:48"
+            },
+            {
+              "song_id" : 651,
+              "song_title" : "Lovesong",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "5:16"
+            },
+            {
+              "song_id" : 168,
+              "song_title" : "Boogie On Reggae Woman",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:56"
+            },
+            {
+              "song_id" : 169,
+              "song_title" : "Creepin'",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:22"
+            },
+            {
+              "song_id" : 164,
+              "song_title" : "He's Misstra Know-It-All",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "5:35"
+            },
+            {
+              "song_id" : 486,
+              "song_title" : "The Miseducation of Lauryn Hill",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 484,
+              "song_title" : "Nothing Even Matters (feat. D'Angelo)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 548,
+              "song_title" : "Where Are My Panties? (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:54"
+            },
+            {
+              "song_id" : 162,
+              "song_title" : "All In Love Is Fair",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "3:41"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 340,
+              "song_title" : "Real Man",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 188,
+              "song_title" : "Contusion",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 549,
+              "song_title" : "Prototype",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:26"
+            },
+            {
+              "song_id" : 327,
+              "song_title" : "Father Figure",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:36"
+            },
+            {
+              "song_id" : 201,
+              "song_title" : "Another Star",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "8:28"
+            },
+            {
+              "song_id" : 200,
+              "song_title" : "As",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:08"
+            },
+            {
+              "song_id" : 714,
+              "song_title" : "Remedy",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 531,
+              "song_title" : "Bust (feat. Killer Mike)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 715,
+              "song_title" : "Water Under the Bridge",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 545,
+              "song_title" : "God (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:20"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 329,
+              "song_title" : "One More Try",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 355,
+              "song_title" : "Birdland",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 642,
+              "song_title" : "Rolling in the Deep",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 353,
+              "song_title" : "The Places You Find Love",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:25"
+            },
+            {
+              "song_id" : 477,
+              "song_title" : "Doo Wop (That Thing)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 647,
+              "song_title" : "He Won't Go",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:38"
+            },
+            {
+              "song_id" : 646,
+              "song_title" : "Set Fire to the Rain",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:02"
+            },
+            {
+              "song_id" : 649,
+              "song_title" : "I'll Be Waiting",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 513,
+              "song_title" : "Cold Cold Heart",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 3,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 349,
+              "song_title" : "I Don't Go for That",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:11"
+            },
+            {
+              "song_id" : 346,
+              "song_title" : "The Road's My Middle Name",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:31"
+            },
+            {
+              "song_id" : 180,
+              "song_title" : "Gone at Last",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:40"
+            },
+            {
+              "song_id" : 402,
+              "song_title" : "Worried Life Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:31"
+            },
+            {
+              "song_id" : 186,
+              "song_title" : "Have a Talk With God",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 482,
+              "song_title" : "Forgive Them Father",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:15"
+            },
+            {
+              "song_id" : 554,
+              "song_title" : "Pink & Blue",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:04"
+            },
+            {
+              "song_id" : 545,
+              "song_title" : "God (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:20"
+            },
+            {
+              "song_id" : 713,
+              "song_title" : "When We Were Young",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 643,
+              "song_title" : "Rumour Has It",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:43"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 355,
+              "song_title" : "Birdland",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 177,
+              "song_title" : "I Do It for Your Love",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:35"
+            },
+            {
+              "song_id" : 199,
+              "song_title" : "If It's Magic",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:12"
+            },
+            {
+              "song_id" : 524,
+              "song_title" : "The Nearness of You",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:07"
+            },
+            {
+              "song_id" : 488,
+              "song_title" : "Tell Him",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 527,
+              "song_title" : "Unhappy",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 347,
+              "song_title" : "Prologue (2Q's Rap)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "1:04"
+            },
+            {
+              "song_id" : 339,
+              "song_title" : "Cry on My Shoulder",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 182,
+              "song_title" : "Have a Good Time",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 394,
+              "song_title" : "Malted Milk",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:37"
+            },
+            {
+              "song_id" : 192,
+              "song_title" : "Pastime Paradise",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 483,
+              "song_title" : "Every Ghetto, Every City",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:14"
+            },
+            {
+              "song_id" : 558,
+              "song_title" : "My Favorite Things",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 543,
+              "song_title" : "The Love Below (Intro)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:27"
+            },
+            {
+              "song_id" : 715,
+              "song_title" : "Water Under the Bridge",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 650,
+              "song_title" : "One and Only",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "5:48"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 360,
+              "song_title" : "The Secret Garden (Sweet Seduction Suite)",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:41"
+            },
+            {
+              "song_id" : 161,
+              "song_title" : "Jesus Children Of America",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 335,
+              "song_title" : "A Last Request",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "3:47"
+            },
+            {
+              "song_id" : 389,
+              "song_title" : "Layla",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:49"
+            },
+            {
+              "song_id" : 187,
+              "song_title" : "Village Ghetto Land",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 518,
+              "song_title" : "Lonestar",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 512,
+              "song_title" : "Seven Years",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:25"
+            },
+            {
+              "song_id" : 528,
+              "song_title" : "Bowtie (feat. Sleepy Brown & Jazze Pha)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 539,
+              "song_title" : "Reset (feat. Khujo and Cee-Lo)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:35"
+            },
+            {
+              "song_id" : 649,
+              "song_title" : "I'll Be Waiting",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:01"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 350,
+              "song_title" : "I'll Be Good to You",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 163,
+              "song_title" : "Don't You Worry 'Bout A Thing",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "4:44"
+            },
+            {
+              "song_id" : 329,
+              "song_title" : "One More Try",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 387,
+              "song_title" : "Lonely Stranger",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 201,
+              "song_title" : "Another Star",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "8:28"
+            },
+            {
+              "song_id" : 513,
+              "song_title" : "Cold Cold Heart",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 544,
+              "song_title" : "Love Hater",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:49"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            },
+            {
+              "song_id" : 710,
+              "song_title" : "Hello",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 4,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 359,
+              "song_title" : "Prelude to the Garden",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "0:54"
+            },
+            {
+              "song_id" : 174,
+              "song_title" : "Please Don't Go",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:07"
+            },
+            {
+              "song_id" : 184,
+              "song_title" : "Silent Eyes",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 396,
+              "song_title" : "Rollin' and Tumblin'",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 194,
+              "song_title" : "Ordinary Pain",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:23"
+            },
+            {
+              "song_id" : 475,
+              "song_title" : "Ex-Factor",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:26"
+            },
+            {
+              "song_id" : 480,
+              "song_title" : "When It Hurts so Bad",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:42"
+            },
+            {
+              "song_id" : 542,
+              "song_title" : "Bowtie (Postlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:35"
+            },
+            {
+              "song_id" : 714,
+              "song_title" : "Remedy",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 722,
+              "song_title" : "Chunky",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:06"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 339,
+              "song_title" : "Cry on My Shoulder",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:44"
+            },
+            {
+              "song_id" : 173,
+              "song_title" : "Bird of Beauty",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 335,
+              "song_title" : "A Last Request",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "3:47"
+            },
+            {
+              "song_id" : 399,
+              "song_title" : "Running On Faith",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:31"
+            },
+            {
+              "song_id" : 204,
+              "song_title" : "All Day Sucker",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "5:05"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 473,
+              "song_title" : "Intro",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "0:47"
+            },
+            {
+              "song_id" : 526,
+              "song_title" : "Ghetto Musick",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 710,
+              "song_title" : "Hello",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "4:55"
+            },
+            {
+              "song_id" : 721,
+              "song_title" : "24K Magic",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:45"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 348,
+              "song_title" : "Back on the Block",
+              "artist" : "Quincy Jones & Various Artists",
+              "album" : "Back on the Block",
+              "duration" : "6:34"
+            },
+            {
+              "song_id" : 342,
+              "song_title" : "Have a Heart",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:49"
+            },
+            {
+              "song_id" : 181,
+              "song_title" : "Some Folks' Lives Roll Easy",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:14"
+            },
+            {
+              "song_id" : 397,
+              "song_title" : "Circus",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:28"
+            },
+            {
+              "song_id" : 196,
+              "song_title" : "Joy Inside My Tears",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "6:29"
+            },
+            {
+              "song_id" : 517,
+              "song_title" : "Turn Me On",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:34"
+            },
+            {
+              "song_id" : 482,
+              "song_title" : "Forgive Them Father",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:15"
+            },
+            {
+              "song_id" : 553,
+              "song_title" : "Behold a Lady",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 340,
+              "song_title" : "Real Man",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 158,
+              "song_title" : "Living for the City",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "7:22"
+            },
+            {
+              "song_id" : 332,
+              "song_title" : "Look at Your Hands",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 327,
+              "song_title" : "Father Figure",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:36"
+            },
+            {
+              "song_id" : 202,
+              "song_title" : "Saturn",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:53"
+            },
+            {
+              "song_id" : 484,
+              "song_title" : "Nothing Even Matters (feat. D'Angelo)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 512,
+              "song_title" : "Seven Years",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:25"
+            },
+            {
+              "song_id" : 547,
+              "song_title" : "Spread",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:51"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            },
+            {
+              "song_id" : 645,
+              "song_title" : "Don't You Remember",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:03"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 168,
+              "song_title" : "Boogie On Reggae Woman",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:56"
+            },
+            {
+              "song_id" : 334,
+              "song_title" : "Kissing a Fool",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 386,
+              "song_title" : "Tears in Heaven",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 203,
+              "song_title" : "Ebony Eyes",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:08"
+            },
+            {
+              "song_id" : 487,
+              "song_title" : "Can't Take My Eyes Off You",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "3:41"
+            },
+            {
+              "song_id" : 477,
+              "song_title" : "Doo Wop (That Thing)",
+              "artist" : "Lauryn Hill",
+              "album" : "The Miseducation of Lauryn Hill",
+              "duration" : "5:20"
+            },
+            {
+              "song_id" : 546,
+              "song_title" : "Happy Valentine's Day",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 539,
+              "song_title" : "Reset (feat. Khujo and Cee-Lo)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:35"
+            },
+            {
+              "song_id" : 644,
+              "song_title" : "Turning Tables",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 5,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 520,
+              "song_title" : "Painter Song",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 554,
+              "song_title" : "Pink & Blue",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:04"
+            },
+            {
+              "song_id" : 526,
+              "song_title" : "Ghetto Musick",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 549,
+              "song_title" : "Prototype",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:26"
+            },
+            {
+              "song_id" : 518,
+              "song_title" : "Lonestar",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 516,
+              "song_title" : "Shoot the Moon",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 542,
+              "song_title" : "Bowtie (Postlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:35"
+            },
+            {
+              "song_id" : 511,
+              "song_title" : "Don't Know Why",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 545,
+              "song_title" : "God (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:20"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 524,
+              "song_title" : "The Nearness of You",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:07"
+            },
+            {
+              "song_id" : 537,
+              "song_title" : "Flip Flop Rock (feat. Killer Mike and Jay-Z)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:35"
+            },
+            {
+              "song_id" : 557,
+              "song_title" : "Dracula's Wedding (feat. Kelis)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:32"
+            },
+            {
+              "song_id" : 548,
+              "song_title" : "Where Are My Panties? (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:54"
+            },
+            {
+              "song_id" : 528,
+              "song_title" : "Bowtie (feat. Sleepy Brown & Jazze Pha)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 553,
+              "song_title" : "Behold a Lady",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 560,
+              "song_title" : "Vibrate",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "6:38"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 515,
+              "song_title" : "Come Away with Me",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:18"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 546,
+              "song_title" : "Happy Valentine's Day",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 547,
+              "song_title" : "Spread",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:51"
+            },
+            {
+              "song_id" : 536,
+              "song_title" : "E-Mac (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:24"
+            },
+            {
+              "song_id" : 521,
+              "song_title" : "One Flight Down",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:05"
+            },
+            {
+              "song_id" : 544,
+              "song_title" : "Love Hater",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:49"
+            },
+            {
+              "song_id" : 512,
+              "song_title" : "Seven Years",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:25"
+            },
+            {
+              "song_id" : 531,
+              "song_title" : "Bust (feat. Killer Mike)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 543,
+              "song_title" : "The Love Below (Intro)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:27"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 535,
+              "song_title" : "Tomb of the Boom (feat. Konkrete, Big Gipp and Ludacris)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:46"
+            },
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 533,
+              "song_title" : "Church",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 550,
+              "song_title" : "Hey Ya!",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:55"
+            },
+            {
+              "song_id" : 534,
+              "song_title" : "Bamboo (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:09"
+            },
+            {
+              "song_id" : 513,
+              "song_title" : "Cold Cold Heart",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 555,
+              "song_title" : "Love in War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 561,
+              "song_title" : "A Life in the Day of Benjamin André (Incomplete)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 519,
+              "song_title" : "I've Got to See You Again",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:13"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 517,
+              "song_title" : "Turn Me On",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:34"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            },
+            {
+              "song_id" : 530,
+              "song_title" : "The Rooster",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 529,
+              "song_title" : "The Way You Move (feat. Sleepy Brown)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:54"
+            },
+            {
+              "song_id" : 558,
+              "song_title" : "My Favorite Things",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 523,
+              "song_title" : "The Long Day Is Over",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:44"
+            },
+            {
+              "song_id" : 527,
+              "song_title" : "Unhappy",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 532,
+              "song_title" : "War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:43"
+            },
+            {
+              "song_id" : 556,
+              "song_title" : "She's Alive",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:06"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

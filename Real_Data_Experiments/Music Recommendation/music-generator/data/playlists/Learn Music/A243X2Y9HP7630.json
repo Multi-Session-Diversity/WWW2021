@@ -1,0 +1,1871 @@
+{
+  "worker_id"  : "A243X2Y9HP7630",
+  "context" : "when learning about a music style",
+  "playlists" : [
+    {
+      "playlist_id" : 1,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 404,
+              "song_title" : "I Have Nothing",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:49"
+            },
+            {
+              "song_id" : 254,
+              "song_title" : "Cleanup Time",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:58"
+            },
+            {
+              "song_id" : 334,
+              "song_title" : "Kissing a Fool",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 410,
+              "song_title" : "Someday (I'm Coming Back)",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:57"
+            },
+            {
+              "song_id" : 282,
+              "song_title" : "Human Nature",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 245,
+              "song_title" : "Spinning",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 408,
+              "song_title" : "Jesus Loves Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 146,
+              "song_title" : "It's Too Late",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 200,
+              "song_title" : "As",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:08"
+            },
+            {
+              "song_id" : 756,
+              "song_title" : "Goodbye",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "1:59"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 627,
+              "song_title" : "Ready to Start",
+              "artist" : "Arcade Fire",
+              "album" : "The Suburbs",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 154,
+              "song_title" : "Tapestry",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 747,
+              "song_title" : "All the Good Girls Go to Hell",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "2:48"
+            },
+            {
+              "song_id" : 174,
+              "song_title" : "Please Don't Go",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:07"
+            },
+            {
+              "song_id" : 331,
+              "song_title" : "Hand to Mouth",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 575,
+              "song_title" : "Easy Silence",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 393,
+              "song_title" : "San Francisco Bay Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:28"
+            },
+            {
+              "song_id" : 258,
+              "song_title" : "Beautiful Boy (Darling Boy)",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 498,
+              "song_title" : "Wishing It Was",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:51"
+            },
+            {
+              "song_id" : 499,
+              "song_title" : "El Farol",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:50"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 134,
+              "song_title" : "El Cóndor Pasa (If I Could)",
+              "artist" : "Simon & Garfunkel",
+              "album" : "Bridge over Troubled Water",
+              "duration" : "3:07"
+            },
+            {
+              "song_id" : 252,
+              "song_title" : "(Just Like) Starting Over",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 495,
+              "song_title" : "Maria Maria",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 250,
+              "song_title" : "Sailing",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:16"
+            },
+            {
+              "song_id" : 138,
+              "song_title" : "The Boxer",
+              "artist" : "Simon & Garfunkel",
+              "album" : "Bridge over Troubled Water",
+              "duration" : "5:08"
+            },
+            {
+              "song_id" : 166,
+              "song_title" : "Heave Is 10 Zillion Light Years Away",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "5:02"
+            },
+            {
+              "song_id" : 84,
+              "song_title" : "Young at Heart",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "3:16"
+            },
+            {
+              "song_id" : 251,
+              "song_title" : "Minstrel Gigolo",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "5:55"
+            },
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 612,
+              "song_title" : "Your Long Journey",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:54"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 140,
+              "song_title" : "The Only Living Boy in New York",
+              "artist" : "Simon & Garfunkel",
+              "album" : "Bridge over Troubled Water",
+              "duration" : "3:58"
+            },
+            {
+              "song_id" : 637,
+              "song_title" : "Deep Blue",
+              "artist" : "Arcade Fire",
+              "album" : "The Suburbs",
+              "duration" : "4:28"
+            },
+            {
+              "song_id" : 674,
+              "song_title" : "Touch\" (featuring Paul Williams)",
+              "artist" : "Daft Punk",
+              "album" : "Random Access Memories",
+              "duration" : "8:18"
+            },
+            {
+              "song_id" : 716,
+              "song_title" : "River Lea",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:45"
+            },
+            {
+              "song_id" : 712,
+              "song_title" : "I Miss You",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "5:48"
+            },
+            {
+              "song_id" : 711,
+              "song_title" : "Send My Love (To Your New Lover)",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 77,
+              "song_title" : "Nancy (With the Laughing Face)",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "4:29"
+            },
+            {
+              "song_id" : 244,
+              "song_title" : "I Really Don't Know Anymore",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 752,
+              "song_title" : "Bury a Friend",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 125,
+              "song_title" : "Sometimes in Winter",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "3:08"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 269,
+              "song_title" : "Good For You",
+              "artist" : "Toto",
+              "album" : "Toto IV",
+              "duration" : "3:17"
+            },
+            {
+              "song_id" : 263,
+              "song_title" : "Dear Yoko",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:34"
+            },
+            {
+              "song_id" : 414,
+              "song_title" : "Trust in Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "4:13"
+            },
+            {
+              "song_id" : 81,
+              "song_title" : "(How Little It Matters) How Little We Know",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "2:15"
+            },
+            {
+              "song_id" : 722,
+              "song_title" : "Chunky",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 647,
+              "song_title" : "He Won't Go",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:38"
+            },
+            {
+              "song_id" : 649,
+              "song_title" : "I'll Be Waiting",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 297,
+              "song_title" : "One More Night",
+              "artist" : "Phil Collins",
+              "album" : "No Jacket Required",
+              "duration" : "4:48"
+            },
+            {
+              "song_id" : 292,
+              "song_title" : "Hello",
+              "artist" : "Lionel Richie",
+              "album" : "Can't Slow Down",
+              "duration" : "4:06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 2,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 274,
+              "song_title" : "Waiting for Your Love",
+              "artist" : "Toto",
+              "album" : "Toto IV",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 239,
+              "song_title" : "Rosalinda's Eyes",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 113,
+              "song_title" : "Homeward Bound",
+              "artist" : "Glen Campbell",
+              "album" : "By the Time I Get to Phoenix",
+              "duration" : "2:39"
+            },
+            {
+              "song_id" : 69,
+              "song_title" : "I'll Never Smile Again",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "2:48"
+            },
+            {
+              "song_id" : 494,
+              "song_title" : "Do You Like the Way",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 176,
+              "song_title" : "My Little Town",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:51"
+            },
+            {
+              "song_id" : 251,
+              "song_title" : "Minstrel Gigolo",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "5:55"
+            },
+            {
+              "song_id" : 257,
+              "song_title" : "I'm Moving On",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:21"
+            },
+            {
+              "song_id" : 170,
+              "song_title" : "You Haven't Done Nothin'",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "3:22"
+            },
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 152,
+              "song_title" : "Will You Love Me Tomorrow?",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 601,
+              "song_title" : "Killing the Blues",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 600,
+              "song_title" : "Rich Woman",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:03"
+            },
+            {
+              "song_id" : 669,
+              "song_title" : "The Game of Love",
+              "artist" : "Daft Punk",
+              "album" : "Random Access Memories",
+              "duration" : "5:22"
+            },
+            {
+              "song_id" : 554,
+              "song_title" : "Pink & Blue",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:04"
+            },
+            {
+              "song_id" : 557,
+              "song_title" : "Dracula's Wedding (feat. Kelis)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:32"
+            },
+            {
+              "song_id" : 178,
+              "song_title" : "50 Ways to Leave Your Lover",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:37"
+            },
+            {
+              "song_id" : 553,
+              "song_title" : "Behold a Lady",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 115,
+              "song_title" : "Cold December (In Your Heart)",
+              "artist" : "Glen Campbell",
+              "album" : "By the Time I Get to Phoenix",
+              "duration" : "2:29"
+            },
+            {
+              "song_id" : 390,
+              "song_title" : "Running on Faith",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:30"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 642,
+              "song_title" : "Rolling in the Deep",
+              "artist" : "Adele",
+              "album" : "21",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 341,
+              "song_title" : "Nobody's Girl",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:14"
+            },
+            {
+              "song_id" : 508,
+              "song_title" : "Cousin Dupree",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:28"
+            },
+            {
+              "song_id" : 185,
+              "song_title" : "Love's in Need of Love Today",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "7:05"
+            },
+            {
+              "song_id" : 311,
+              "song_title" : "Homeless",
+              "artist" : "Paul Simon",
+              "album" : "Graceland",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 744,
+              "song_title" : "Bad Guy",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "3:14"
+            },
+            {
+              "song_id" : 751,
+              "song_title" : "My Strange Addiction",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "2:59"
+            },
+            {
+              "song_id" : 205,
+              "song_title" : "Eay Goin' Evening (My Mama's Call)",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 401,
+              "song_title" : "My Father's Eyes",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "6:42"
+            },
+            {
+              "song_id" : 637,
+              "song_title" : "Deep Blue",
+              "artist" : "Arcade Fire",
+              "album" : "The Suburbs",
+              "duration" : "4:28"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 209,
+              "song_title" : "Don't Stop",
+              "artist" : "Fleetwood Mac",
+              "album" : "Rumours",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 442,
+              "song_title" : "Head over Feet",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 610,
+              "song_title" : "Nothin'",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:32"
+            },
+            {
+              "song_id" : 440,
+              "song_title" : "Forgiven",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "5:00"
+            },
+            {
+              "song_id" : 148,
+              "song_title" : "Beautiful",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 77,
+              "song_title" : "Nancy (With the Laughing Face)",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "4:29"
+            },
+            {
+              "song_id" : 121,
+              "song_title" : "You're Young and You'll Forget",
+              "artist" : "Glen Campbell",
+              "album" : "By the Time I Get to Phoenix",
+              "duration" : "2:17"
+            },
+            {
+              "song_id" : 247,
+              "song_title" : "Poor Shirley",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 246,
+              "song_title" : "Never Be the Same",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:09"
+            },
+            {
+              "song_id" : 241,
+              "song_title" : "Until the Night",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "6:36"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 385,
+              "song_title" : "Hey Hey",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:46"
+            },
+            {
+              "song_id" : 59,
+              "song_title" : "Last Night When We Were Young",
+              "artist" : "Frank Sinatra",
+              "album" : "September of My Years",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 55,
+              "song_title" : "How Old Am I?",
+              "artist" : "Frank Sinatra",
+              "album" : "September of My Years",
+              "duration" : "3:34"
+            },
+            {
+              "song_id" : 724,
+              "song_title" : "That's What I Like",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 116,
+              "song_title" : "My Baby's Gone",
+              "artist" : "Glen Campbell",
+              "album" : "By the Time I Get to Phoenix",
+              "duration" : "2:52"
+            },
+            {
+              "song_id" : 723,
+              "song_title" : "Perm",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 299,
+              "song_title" : "Who Said I Would",
+              "artist" : "Phil Collins",
+              "album" : "No Jacket Required",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 511,
+              "song_title" : "Don't Know Why",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 435,
+              "song_title" : "All I Really Want",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "4:44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 3,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 78,
+              "song_title" : "The House I Live In",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "4:42"
+            },
+            {
+              "song_id" : 336,
+              "song_title" : "Nick of Time",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 259,
+              "song_title" : "Watching the Wheels",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 581,
+              "song_title" : "Silent House",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 241,
+              "song_title" : "Until the Night",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "6:36"
+            },
+            {
+              "song_id" : 500,
+              "song_title" : "Primavera",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "6:16"
+            },
+            {
+              "song_id" : 400,
+              "song_title" : "Walkin' Blues",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:48"
+            },
+            {
+              "song_id" : 153,
+              "song_title" : "Smackwater Jack",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "3:41"
+            },
+            {
+              "song_id" : 553,
+              "song_title" : "Behold a Lady",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 753,
+              "song_title" : "Ilomilo",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "2:36"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 88,
+              "song_title" : "I've Got You Under My Skin",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "3:30"
+            },
+            {
+              "song_id" : 337,
+              "song_title" : "Thing Called Love",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "3:52"
+            },
+            {
+              "song_id" : 681,
+              "song_title" : "Cycle",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "0:39"
+            },
+            {
+              "song_id" : 574,
+              "song_title" : "The Long Way Around",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:32"
+            },
+            {
+              "song_id" : 161,
+              "song_title" : "Jesus Children Of America",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "4:10"
+            },
+            {
+              "song_id" : 499,
+              "song_title" : "El Farol",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:50"
+            },
+            {
+              "song_id" : 386,
+              "song_title" : "Tears in Heaven",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 190,
+              "song_title" : "I Wish",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 675,
+              "song_title" : "Get Lucky\" (featuring Pharrell Williams)",
+              "artist" : "Daft Punk",
+              "album" : "Random Access Memories",
+              "duration" : "6:09"
+            },
+            {
+              "song_id" : 746,
+              "song_title" : "You Should See Me in a Crown",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "3:00"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 42,
+              "song_title" : "Keepin' Out of Mischief Now",
+              "artist" : "Barbra Streisand",
+              "album" : "The Barbra Streisand Album",
+              "duration" : "2:10"
+            },
+            {
+              "song_id" : 124,
+              "song_title" : "Smiling Phases",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:09"
+            },
+            {
+              "song_id" : 258,
+              "song_title" : "Beautiful Boy (Darling Boy)",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "4:05"
+            },
+            {
+              "song_id" : 654,
+              "song_title" : "Whispers in the Dark",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "3:15"
+            },
+            {
+              "song_id" : 177,
+              "song_title" : "I Do It for Your Love",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:35"
+            },
+            {
+              "song_id" : 634,
+              "song_title" : "Suburban War",
+              "artist" : "Arcade Fire",
+              "album" : "The Suburbs",
+              "duration" : "4:45"
+            },
+            {
+              "song_id" : 383,
+              "song_title" : "Signe",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 144,
+              "song_title" : "I Feel the Earth Move",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "2:58"
+            },
+            {
+              "song_id" : 407,
+              "song_title" : "Queen of the Night",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 741,
+              "song_title" : "Golden Hour",
+              "artist" : "Kacey Musgraves",
+              "album" : "Golden Hour",
+              "duration" : "3:18"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 503,
+              "song_title" : "What a Shame About Me",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:17"
+            },
+            {
+              "song_id" : 690,
+              "song_title" : "Phase",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "1:07"
+            },
+            {
+              "song_id" : 254,
+              "song_title" : "Cleanup Time",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:58"
+            },
+            {
+              "song_id" : 283,
+              "song_title" : "P.Y.T. (Pretty Young Thing)",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "3:59"
+            },
+            {
+              "song_id" : 182,
+              "song_title" : "Have a Good Time",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:26"
+            },
+            {
+              "song_id" : 302,
+              "song_title" : "Take Me Home",
+              "artist" : "Phil Collins",
+              "album" : "No Jacket Required",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 387,
+              "song_title" : "Lonely Stranger",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "5:27"
+            },
+            {
+              "song_id" : 148,
+              "song_title" : "Beautiful",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 206,
+              "song_title" : "Second Hand News",
+              "artist" : "Fleetwood Mac",
+              "album" : "Rumours",
+              "duration" : "2:56"
+            },
+            {
+              "song_id" : 270,
+              "song_title" : "It's a Feeling",
+              "artist" : "Toto",
+              "album" : "Toto IV",
+              "duration" : "3:05"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 510,
+              "song_title" : "West of Hollywood",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "8:21"
+            },
+            {
+              "song_id" : 684,
+              "song_title" : "Say Goodbye",
+              "artist" : "Beck",
+              "album" : "Morning Phase",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 261,
+              "song_title" : "Woman",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "3:32"
+            },
+            {
+              "song_id" : 282,
+              "song_title" : "Human Nature",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 243,
+              "song_title" : "Say You'll Be Mine",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "2:56"
+            },
+            {
+              "song_id" : 247,
+              "song_title" : "Poor Shirley",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 329,
+              "song_title" : "One More Try",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 439,
+              "song_title" : "Right Through You",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "2:56"
+            },
+            {
+              "song_id" : 314,
+              "song_title" : "All Around the World or the Myth of Fingerprints",
+              "artist" : "Paul Simon",
+              "album" : "Graceland",
+              "duration" : "3:17"
+            },
+            {
+              "song_id" : 712,
+              "song_title" : "I Miss You",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "5:48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 4,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 77,
+              "song_title" : "Nancy (With the Laughing Face)",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "4:29"
+            },
+            {
+              "song_id" : 612,
+              "song_title" : "Your Long Journey",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:54"
+            },
+            {
+              "song_id" : 56,
+              "song_title" : "Don't Wait Too Long",
+              "artist" : "Frank Sinatra",
+              "album" : "September of My Years",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 658,
+              "song_title" : "Lover of the Light",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "5:14"
+            },
+            {
+              "song_id" : 302,
+              "song_title" : "Take Me Home",
+              "artist" : "Phil Collins",
+              "album" : "No Jacket Required",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 494,
+              "song_title" : "Do You Like the Way",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 150,
+              "song_title" : "You've Got a Friend",
+              "artist" : "Carole King",
+              "album" : "Tapestry",
+              "duration" : "5:08"
+            },
+            {
+              "song_id" : 192,
+              "song_title" : "Pastime Paradise",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:27"
+            },
+            {
+              "song_id" : 135,
+              "song_title" : "Cecilia",
+              "artist" : "Simon & Garfunkel",
+              "album" : "Bridge over Troubled Water",
+              "duration" : "2:54"
+            },
+            {
+              "song_id" : 724,
+              "song_title" : "That's What I Like",
+              "artist" : "Bruno Mars",
+              "album" : "24K Magic",
+              "duration" : "3:26"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 87,
+              "song_title" : "Love and Marriage",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 119,
+              "song_title" : "Bad Seed",
+              "artist" : "Glen Campbell",
+              "album" : "By the Time I Get to Phoenix",
+              "duration" : "2:20"
+            },
+            {
+              "song_id" : 129,
+              "song_title" : "Spinning Wheel",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "4:07"
+            },
+            {
+              "song_id" : 655,
+              "song_title" : "I Will Wait",
+              "artist" : "Mumford & Sons",
+              "album" : "Babel",
+              "duration" : "4:36"
+            },
+            {
+              "song_id" : 635,
+              "song_title" : "Month of May",
+              "artist" : "Arcade Fire",
+              "album" : "The Suburbs",
+              "duration" : "3:50"
+            },
+            {
+              "song_id" : 330,
+              "song_title" : "Hard Day",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "4:48"
+            },
+            {
+              "song_id" : 191,
+              "song_title" : "Knocks Me Off My Feet",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:36"
+            },
+            {
+              "song_id" : 522,
+              "song_title" : "Nightingale",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "4:12"
+            },
+            {
+              "song_id" : 559,
+              "song_title" : "Take Off Your Cool (feat. Norah Jones)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:38"
+            },
+            {
+              "song_id" : 752,
+              "song_title" : "Bury a Friend",
+              "artist" : "Billie Eilish",
+              "album" : "When We All Fall Asleep, Where Do We Go?",
+              "duration" : "3:13"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 40,
+              "song_title" : "Soon It's Gonna Rain",
+              "artist" : "Barbra Streisand",
+              "album" : "The Barbra Streisand Album",
+              "duration" : "3:43"
+            },
+            {
+              "song_id" : 124,
+              "song_title" : "Smiling Phases",
+              "artist" : "Blood, Sweat & Tears",
+              "album" : "Blood, Sweat & Tears",
+              "duration" : "5:09"
+            },
+            {
+              "song_id" : 262,
+              "song_title" : "Beautiful Boys",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:55"
+            },
+            {
+              "song_id" : 236,
+              "song_title" : "My Life",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:44"
+            },
+            {
+              "song_id" : 247,
+              "song_title" : "Poor Shirley",
+              "artist" : "Christopher Cross",
+              "album" : "Christopher Cross",
+              "duration" : "4:24"
+            },
+            {
+              "song_id" : 493,
+              "song_title" : "Smooth",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:54"
+            },
+            {
+              "song_id" : 383,
+              "song_title" : "Signe",
+              "artist" : "Eric Clapton",
+              "album" : "Unplugged",
+              "duration" : "3:29"
+            },
+            {
+              "song_id" : 205,
+              "song_title" : "Eay Goin' Evening (My Mama's Call)",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "3:56"
+            },
+            {
+              "song_id" : 531,
+              "song_title" : "Bust (feat. Killer Mike)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 735,
+              "song_title" : "Love is a Wild Thing",
+              "artist" : "Kacey Musgraves",
+              "album" : "Golden Hour",
+              "duration" : "4:16"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 502,
+              "song_title" : "Gaslighting Abbie",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:53"
+            },
+            {
+              "song_id" : 169,
+              "song_title" : "Creepin'",
+              "artist" : "Stevie Wonder",
+              "album" : "Fulfillingness' First Finale",
+              "duration" : "4:22"
+            },
+            {
+              "song_id" : 580,
+              "song_title" : "Lubbock or Leave It",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 157,
+              "song_title" : "Visions",
+              "artist" : "Stevie Wonder",
+              "album" : "Innervisions",
+              "duration" : "5:23"
+            },
+            {
+              "song_id" : 282,
+              "song_title" : "Human Nature",
+              "artist" : "Michael Jackson",
+              "album" : "Thriller",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 501,
+              "song_title" : "The Calling",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "7:49"
+            },
+            {
+              "song_id" : 329,
+              "song_title" : "One More Try",
+              "artist" : "George Michael",
+              "album" : "Faith",
+              "duration" : "5:50"
+            },
+            {
+              "song_id" : 306,
+              "song_title" : "I Know What I Know",
+              "artist" : "Paul Simon",
+              "album" : "Graceland",
+              "duration" : "3:13"
+            },
+            {
+              "song_id" : 408,
+              "song_title" : "Jesus Loves Me",
+              "artist" : "Whitney Houston",
+              "album" : "The Bodyguard",
+              "duration" : "5:12"
+            },
+            {
+              "song_id" : 711,
+              "song_title" : "Send My Love (To Your New Lover)",
+              "artist" : "Adele",
+              "album" : "25",
+              "duration" : "3:43"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 75,
+              "song_title" : "Oh! What It Seemed to Be",
+              "artist" : "Frank Sinatra",
+              "album" : "A Man and His Music",
+              "duration" : "2:28"
+            },
+            {
+              "song_id" : 342,
+              "song_title" : "Have a Heart",
+              "artist" : "Bonnie Raitt",
+              "album" : "Nick of Time",
+              "duration" : "4:49"
+            },
+            {
+              "song_id" : 254,
+              "song_title" : "Cleanup Time",
+              "artist" : "John Lennon & Yoko Ono",
+              "album" : "Double Fantasy",
+              "duration" : "2:58"
+            },
+            {
+              "song_id" : 239,
+              "song_title" : "Rosalinda's Eyes",
+              "artist" : "Billy Joel",
+              "album" : "52nd Street",
+              "duration" : "4:40"
+            },
+            {
+              "song_id" : 183,
+              "song_title" : "You're Kind",
+              "artist" : "Paul Simon",
+              "album" : "Still Crazy After All These Years",
+              "duration" : "3:20"
+            },
+            {
+              "song_id" : 495,
+              "song_title" : "Maria Maria",
+              "artist" : "Santana",
+              "album" : "Supernatural",
+              "duration" : "4:21"
+            },
+            {
+              "song_id" : 444,
+              "song_title" : "Ironic",
+              "artist" : "Alanis Morissette",
+              "album" : "Jagged Little Pill",
+              "duration" : "3:50"
+            },
+            {
+              "song_id" : 186,
+              "song_title" : "Have a Talk With God",
+              "artist" : "Stevie Wonder",
+              "album" : "Songs in the Key of Life",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 740,
+              "song_title" : "High Horse",
+              "artist" : "Kacey Musgraves",
+              "album" : "Golden Hour",
+              "duration" : "3:33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "playlist_id" : 5,
+      "sets":[
+        {
+          "set_id" : 1,
+          "songs" : [
+            {
+              "song_id" : 584,
+              "song_title" : "I Like It",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:33"
+            },
+            {
+              "song_id" : 583,
+              "song_title" : "Voice Inside My Head",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:51"
+            },
+            {
+              "song_id" : 510,
+              "song_title" : "West of Hollywood",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "8:21"
+            },
+            {
+              "song_id" : 557,
+              "song_title" : "Dracula's Wedding (feat. Kelis)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:32"
+            },
+            {
+              "song_id" : 530,
+              "song_title" : "The Rooster",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 549,
+              "song_title" : "Prototype",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "5:26"
+            },
+            {
+              "song_id" : 542,
+              "song_title" : "Bowtie (Postlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:35"
+            },
+            {
+              "song_id" : 547,
+              "song_title" : "Spread",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:51"
+            },
+            {
+              "song_id" : 587,
+              "song_title" : "I Hope",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:24"
+            }
+          ]
+        },
+        {
+          "set_id" : 2,
+          "songs" : [
+            {
+              "song_id" : 601,
+              "song_title" : "Killing the Blues",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:15"
+            },
+            {
+              "song_id" : 520,
+              "song_title" : "Painter Song",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:42"
+            },
+            {
+              "song_id" : 504,
+              "song_title" : "Two Against Nature",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "6:17"
+            },
+            {
+              "song_id" : 518,
+              "song_title" : "Lonestar",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:06"
+            },
+            {
+              "song_id" : 585,
+              "song_title" : "Baby Hold On",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:02"
+            },
+            {
+              "song_id" : 580,
+              "song_title" : "Lubbock or Leave It",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "3:53"
+            },
+            {
+              "song_id" : 531,
+              "song_title" : "Bust (feat. Killer Mike)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:08"
+            },
+            {
+              "song_id" : 607,
+              "song_title" : "Trampled Rose",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "5:33"
+            },
+            {
+              "song_id" : 579,
+              "song_title" : "Lullaby",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "5:50"
+            }
+          ]
+        },
+        {
+          "set_id" : 3,
+          "songs" : [
+            {
+              "song_id" : 524,
+              "song_title" : "The Nearness of You",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:07"
+            },
+            {
+              "song_id" : 543,
+              "song_title" : "The Love Below (Intro)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:27"
+            },
+            {
+              "song_id" : 514,
+              "song_title" : "Feelin' the Same Way",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "2:57"
+            },
+            {
+              "song_id" : 540,
+              "song_title" : "D-Boi (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "0:40"
+            },
+            {
+              "song_id" : 578,
+              "song_title" : "Bitter End",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:37"
+            },
+            {
+              "song_id" : 537,
+              "song_title" : "Flip Flop Rock (feat. Killer Mike and Jay-Z)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:35"
+            },
+            {
+              "song_id" : 604,
+              "song_title" : "Gone Gone Gone (Done Moved On)",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "3:32"
+            },
+            {
+              "song_id" : 548,
+              "song_title" : "Where Are My Panties? (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:54"
+            },
+            {
+              "song_id" : 575,
+              "song_title" : "Easy Silence",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:01"
+            }
+          ]
+        },
+        {
+          "set_id" : 4,
+          "songs" : [
+            {
+              "song_id" : 556,
+              "song_title" : "She's Alive",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:06"
+            },
+            {
+              "song_id" : 605,
+              "song_title" : "Through the Morning, Through the Night",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:00"
+            },
+            {
+              "song_id" : 555,
+              "song_title" : "Love in War",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:25"
+            },
+            {
+              "song_id" : 538,
+              "song_title" : "Interlude",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:15"
+            },
+            {
+              "song_id" : 545,
+              "song_title" : "God (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:20"
+            },
+            {
+              "song_id" : 534,
+              "song_title" : "Bamboo (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:09"
+            },
+            {
+              "song_id" : 503,
+              "song_title" : "What a Shame About Me",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:17"
+            },
+            {
+              "song_id" : 576,
+              "song_title" : "Not Ready to Make Nice",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "3:57"
+            },
+            {
+              "song_id" : 502,
+              "song_title" : "Gaslighting Abbie",
+              "artist" : "Steely Dan",
+              "album" : "Two Against Nature",
+              "duration" : "5:53"
+            }
+          ]
+        },
+        {
+          "set_id" : 5,
+          "songs" : [
+            {
+              "song_id" : 552,
+              "song_title" : "Good Day, Good Sir (Interlude)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:24"
+            },
+            {
+              "song_id" : 544,
+              "song_title" : "Love Hater",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "2:49"
+            },
+            {
+              "song_id" : 551,
+              "song_title" : "Roses",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "6:09"
+            },
+            {
+              "song_id" : 527,
+              "song_title" : "Unhappy",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "3:19"
+            },
+            {
+              "song_id" : 611,
+              "song_title" : "Let Your Loss Be Your Lesson",
+              "artist" : "Robert Plant & Alison Krauss",
+              "album" : "Raising Sand",
+              "duration" : "4:01"
+            },
+            {
+              "song_id" : 525,
+              "song_title" : "Intro",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "1:29"
+            },
+            {
+              "song_id" : 513,
+              "song_title" : "Cold Cold Heart",
+              "artist" : "Norah Jones",
+              "album" : "Come Away with Me",
+              "duration" : "3:38"
+            },
+            {
+              "song_id" : 586,
+              "song_title" : "So Hard",
+              "artist" : "Dixie Chicks",
+              "album" : "Taking the Long Way",
+              "duration" : "4:27"
+            },
+            {
+              "song_id" : 539,
+              "song_title" : "Reset (feat. Khujo and Cee-Lo)",
+              "artist" : "OutKast",
+              "album" : "Speakerboxxx/The Love Below",
+              "duration" : "4:35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

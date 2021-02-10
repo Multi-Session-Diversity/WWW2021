@@ -1,0 +1,43 @@
+<div class="task">
+  <div class="task-content">
+      <h4> $taskNo) How similar are the following terms? </h4>
+      <div class="tweet"> 
+          <b>Term 1</b>: $term1 <br>
+          <b>Term 2</b>: $term2 <br>
+      </div>
+      <div class="choices">
+      <form id='answer_form' method="post">
+        <table style="text-align:center; font-size: small;">
+          <tr> 
+            <td> <input type="radio" name="$task_instance_id-1" value="1" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="2" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="3" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="4" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="5" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="6" > </td>
+            <td> <input type="radio" name="$task_instance_id-1" value="7" > </td>
+          </tr>
+          <tr>
+            <td width="14.2%"> Completely<br>different </td>
+            <td width="14.2%"> Very<br>different </td>
+            <td width="14.2%"> Slightly<br>different </td>
+            <td width="14.2%"> Neutral </td>
+            <td width="14.2%"> Quite<br>similar </td>
+            <td width="14.2%"> Very<br>similar </td>
+            <td width="14.2%"> Exactly<br>the same </td>
+          </tr>
+        </table>
+        <br>
+        <input type="hidden" name="$task_instance_id" value="$reward"/>
+        <input type="submit" class="task_finish" value="Submit"/>
+      </form> 
+      </div>
+  </div>
+  <div class="task-info">
+    <b>Title: </b> $title <br>
+    <b>Description: </b> $description <br>
+    <b>Keywords: </b> $keywords <br>
+    <b>Requester: </b> $requester <br>
+    <b>Reward: </b> $reward USD <br>
+  </div>
+</div>

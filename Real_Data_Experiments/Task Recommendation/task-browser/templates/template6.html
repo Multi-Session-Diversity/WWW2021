@@ -1,0 +1,53 @@
+<!--nuclear tweet -->
+<div class="task">
+	<div class="task-content">
+	    <h4> $taskNo) Please examine the photo below and choose the type of pattern or print that best matches the dress on the picture.  </h4>
+	    <div class="tweet"> 
+	        <img src="$Image">
+	    </div>
+	    <div class="choices">
+      <form id='answer_form' method="post">
+      <p> <b> What is the pattern or print of the dress?</b></p>
+        <table border="0" style="font-size:14px;">
+          <tr>
+            <td width="25%">
+              <input type="radio" name="$task_instance_id-1" value="animal"> animal<br>
+              <input type="radio" name="$task_instance_id-1" value="cartoon"> cartoon<br>
+              <input type="radio" name="$task_instance_id-1" value="chevron"> chevron<br>
+              <input type="radio" name="$task_instance_id-1" value="floral"> floral<br>
+            </td>
+            <td width="25%">
+              <input type="radio" name="$task_instance_id-1" value="geometry"> geometry<br>
+              <input type="radio" name="$task_instance_id-1" value="houndstooth"> houndstooth<br>
+              <input type="radio" name="$task_instance_id-1" value="ikat"> ikat<br>
+              <input type="radio" name="$task_instance_id-1" value="letter_numb"> letter/number<br>
+            </td>
+            <td width="25%">
+              <input type="radio" name="$task_instance_id-1" value="plain"> plain<br>
+              <input type="radio" name="$task_instance_id-1" value="polka dot"> polka dot<br>
+              <input type="radio" name="$task_instance_id-1" value="scales"> scales<br>
+              <input type="radio" name="$task_instance_id-1" value="skull"> skull<br>
+            </td>
+            <td width="25%">
+              <input type="radio" name="$task_instance_id-1" value="squares"> squares<br>
+              <input type="radio" name="$task_instance_id-1" value="stars"> stars<br>
+              <input type="radio" name="$task_instance_id-1" value="stripes"> stripes<br>
+              <input type="radio" name="$task_instance_id-1" value="tribal"> tribal<br>
+              <input type="radio" name="$task_instance_id-1" value="other"> other<br>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <input type="hidden" name="$task_instance_id" value="$reward"/>
+        <input type="submit" class="task_finish" value="Submit"/>
+      </form> 
+      </div>
+	</div>
+	<div class="task-info">
+	  <b>Title: </b> $title <br>
+	  <b>Description: </b> $description <br>
+	  <b>Keywords: </b> $keywords <br>
+	  <b>Requester: </b> $requester <br>
+	  <b>Reward: </b> $reward USD <br>
+	</div>
+</div>

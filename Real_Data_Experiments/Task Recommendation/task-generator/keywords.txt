@@ -1,0 +1,17 @@
+concepts comparison
+data categorization
+emotion detection
+handwriting recognition
+handwriting transcription
+image annotation
+image categorization
+image rating
+pattern recognition
+semantic analysis
+semantic similarity
+sentence agreement
+sentence comparison
+sentiment analysis
+text classification
+tweet categorization
+word comparison

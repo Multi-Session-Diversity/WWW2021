@@ -1,0 +1,57 @@
+{
+    "worker_id": "A31JDHUART13AV",
+    "context": "when learning about a music style",
+    "unique_code": "cRQO0GyToF3T3SV",
+    "playlists": [
+        {
+            "playlist_id": 1,
+            "count_selected": 7,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 4,
+            "recency": 5,
+            "familiarity": 3,
+            "overall": 4
+        },
+        {
+            "playlist_id": 2,
+            "count_selected": 5,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 4,
+            "recency": 5,
+            "familiarity": 4,
+            "overall": 3
+        },
+        {
+            "playlist_id": 3,
+            "count_selected": 5,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 4,
+            "recency": 5,
+            "familiarity": 4,
+            "overall": 4
+        },
+        {
+            "playlist_id": 4,
+            "count_selected": 6,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 4,
+            "recency": 4,
+            "familiarity": 5,
+            "overall": 4
+        },
+        {
+            "playlist_id": 5,
+            "count_selected": 9,
+            "count_total": 45,
+            "artists": 3,
+            "diversity": 4,
+            "recency": 5,
+            "familiarity": 4,
+            "overall": 4
+        }
+    ]
+}

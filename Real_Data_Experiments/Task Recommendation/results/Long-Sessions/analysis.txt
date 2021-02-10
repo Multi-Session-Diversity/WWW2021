@@ -1,0 +1,149 @@
+
+sqlite3 A.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case1-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+
+sqlite3 B.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case2-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+sqlite3 C.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case3-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+
+sqlite3 D.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case4-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+
+sqlite3 E.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case5-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+
+sqlite3 F.db
+update task set answer="I can't tell" where task_type_id=1 and answer="nan";
+update task_instance set answer="I can't tell" where task_id < 2001 and answer="neutral";
+update task_instance set answer="Yes" where task_id < 2001 and answer="positive";
+update task_instance set answer="No" where task_id < 2001 and answer="negative";
+update task set answer="Highly negative" where task_type_id=10 and answer="1";
+update task set answer="Negative" where task_type_id=10 and answer="2";
+update task set answer="Neutral" where task_type_id=10 and answer="3";
+update task set answer="Positive" where task_type_id=10 and answer="4";
+update task set answer="Highly positive" where task_type_id=10 and answer="5";
+.mode csv
+.output case6-answers.csv
+select distinct ti.worker_id, ti.task_instance_id, ti.answer, t.answer from task_instance ti, task t where t.task_id = ti.task_id;
+.quit
+
+#3. Get scores; Run get-scores.py
+python3 ~/Google\ Drive/Projects/Sequence\ Recommendation/Tools/bin/get-scores.py
+
+#4. Upload answers and get summary
+sqlite3 A.db
+.read case1-answers.sql
+.mode csv
+.output case1.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+sqlite3 B.db
+.read case2-answers.sql
+.mode csv
+.output case2.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+sqlite3 C.db
+.read case3-answers.sql
+.mode csv
+.output case3.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+sqlite3 D.db
+.read case4-answers.sql
+.mode csv
+.output case4.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+sqlite3 E.db
+.read case5-answers.sql
+.mode csv
+.output case5.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+sqlite3 F.db
+.read case6-answers.sql
+.mode csv
+.output case6.csv
+select distinct t.worker_id, t.window_id, min(t.answer_time), max(t.answer_time), count(t.task_instance_id), sum(t.quality_score), sum(tt.reward) from task_instance t, task_type tt, task ta where t.worker_id in finalworkers and ta.task_id = t.task_id and ta.task_type_id = tt.task_type_id group by t.worker_id, t.window_id;
+.quit
+
+
+#5. Get duration: run get-duration.py
+python3 ~/Google\ Drive/Projects/Sequence\ Recommendation/Tools/bin/get-duration.py 
+
+#6. Download HIT results (hit-random.csv)
+
+#7. run filter-answers.py
+python3 ~/Google\ Drive/Projects/Sequence\ Recommendation/Tools/bin/filter-answers.py

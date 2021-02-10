@@ -1,0 +1,57 @@
+{
+    "worker_id": "A36NRERHG2J726",
+    "context": "during a long drive",
+    "unique_code": "5OVwbAyKFNqJS0J",
+    "playlists": [
+        {
+            "playlist_id": 1,
+            "count_selected": 18,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 5,
+            "recency": 4,
+            "familiarity": 3,
+            "overall": 4
+        },
+        {
+            "playlist_id": 2,
+            "count_selected": 15,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 5,
+            "recency": 4,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 3,
+            "count_selected": 8,
+            "count_total": 50,
+            "artists": 3,
+            "diversity": 5,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 3
+        },
+        {
+            "playlist_id": 4,
+            "count_selected": 11,
+            "count_total": 50,
+            "artists": 4,
+            "diversity": 5,
+            "recency": 4,
+            "familiarity": 4,
+            "overall": 4
+        },
+        {
+            "playlist_id": 5,
+            "count_selected": 15,
+            "count_total": 45,
+            "artists": 4,
+            "diversity": 5,
+            "recency": 3,
+            "familiarity": 3,
+            "overall": 4
+        }
+    ]
+}

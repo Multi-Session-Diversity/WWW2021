@@ -1,0 +1,27 @@
+<div class="task">
+  <div class="task-content">
+      <h4> $taskNo) Please examine the two sentences. </h4>
+      <div class="tweet"> 
+          <b>Sentence A</b>: $premise <br>
+          <b>Sentence B</b>: $hypothesis <br>
+      </div>
+      <div class="choices">
+      <form id='answer_form' method="post">
+      <p> <b> Does Sentence A adequately describe Sentence B? </b></p>
+        <input type="radio" name="$task_instance_id-1" value="yes" > Yes <br>
+        <input type="radio" name="$task_instance_id-1" value="no"> No <br>
+        <input type="radio" name="$task_instance_id-1" value="unk"> I can't tell <br> 
+        <br>
+        <input type="hidden" name="$task_instance_id" value="$reward"/>
+        <input type="submit" class="task_finish" value="Submit"/>
+      </form> 
+      </div>
+  </div>
+  <div class="task-info">
+    <b>Title: </b> $title <br>
+    <b>Description: </b> $description <br>
+    <b>Keywords: </b> $keywords <br>
+    <b>Requester: </b> $requester <br>
+    <b>Reward: </b> $reward USD <br>
+  </div>
+</div>

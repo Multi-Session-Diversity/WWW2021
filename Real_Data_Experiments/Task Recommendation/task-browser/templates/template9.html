@@ -1,0 +1,42 @@
+<!--nuclear tweet -->
+<div class="task">
+	<div class="task-content">
+	    <h4> $taskNo) Please read the following new year's resolution tweet. </h4>
+	    <div class="tweet"> 
+	        $text
+	    </div>
+	    <div class="choices">
+	    <form id='answer_form' method="post">
+	    <p> <b> What do you think is the category of the tweet? </b></p>
+	      <table border="0" style="font-size:14px;">
+          <tr>
+            <td width="50%">
+              <input type="radio" name="$task_instance_id-1" value="Health & Fitness"> Health & Fitness<br>
+              <input type="radio" name="$task_instance_id-1" value="Humor"> Humor<br>
+              <input type="radio" name="$task_instance_id-1" value="Personal Growth"> Personal Growth<br>
+              <input type="radio" name="$task_instance_id-1" value="Philanthropic"> Philanthropic<br>
+              <input type="radio" name="$task_instance_id-1" value="Recreation & Leisure"> Recreation & Leisure<br>
+            </td>
+            <td width="50%">
+              <input type="radio" name="$task_instance_id-1" value="Family/Friends/Relationships"> Family/Friends/Relationships<br>
+              <input type="radio" name="$task_instance_id-1" value="Career"> Career<br>
+              <input type="radio" name="$task_instance_id-1" value="Finance"> Finance<br>
+              <input type="radio" name="$task_instance_id-1" value="Education/Training"> Education/Training<br>
+              <input type="radio" name="$task_instance_id-1" value="Time Management/Organization"> Time Management/Organization<br>
+            </td>
+          </tr>
+        </table>
+        <br>
+          <input type="hidden" name="$task_instance_id" value="$reward"/>
+	      <input type="submit" class="task_finish" value="Submit"/>
+	  	</form> 
+	    </div>
+	</div>
+	<div class="task-info">
+	  <b>Title: </b> $title <br>
+	  <b>Description: </b> $description <br>
+	  <b>Keywords: </b> $keywords <br>
+	  <b>Requester: </b> $requester <br>
+	  <b>Reward: </b> $reward USD <br>
+	</div>
+</div>
